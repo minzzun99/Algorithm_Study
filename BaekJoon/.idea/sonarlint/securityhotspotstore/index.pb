@@ -263,3 +263,5 @@ T
 $src/math/Bj2338_긴자리계산.java,2\1\21a8c9fca3b9a019ac5189ed9627299a7db9cc93
 P
  src/dp/Bj11726_2xN타일링.java,3\4\34aed7460da6f3b24672e4b47117ea78914272e2
+T
+$src/dp/Bj24416_피보나치수1.java,a\5\a5f07ac6a48f3277914f6bfb918a62dc6d71781b
