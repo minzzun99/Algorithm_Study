@@ -1,0 +1,7 @@
+
+†
+java:S1319"dThe type of "visited" should be an interface such as "Set" rather than the implementation "HashSet".(½ôşïüÿÿÿÿ8´èÅì1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÿÈ¡Ğüÿÿÿÿ8‘«ğÅì1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…âíâ8µèÅì1
+_
+java:S1659"BDeclare "sheep" and all following declarations on a separate line.(ÃÃÍ–8˜èÅì1

@@ -1,0 +1,10 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£Äûæ8ô«Êñ1
+u
+java:S3008"SRename this field "Dungeons" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£®û›úÿÿÿÿ8™¬Êñ1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(–Æòˆûÿÿÿÿ8 ¬Êñ1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(‚¬¨Éúÿÿÿÿ8¡¬Êñ1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(Ùµáœúÿÿÿÿ8¡¬Êñ1

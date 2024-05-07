@@ -1,0 +1,8 @@
+
+A
+java:S1659
+"Declare "k" on a separate line.(øÃ—ùüÿÿÿÿ8ÃŸñ1
+r
+java:S1450
+"PRemove the "k" field and declare it as a local variable in the relevant methods.(øÃ—ùüÿÿÿÿ8 ÃŸñ1
+G	java:S106"+Replace this use of System.out by a logger.(Öû³œ8¨ÃŸñ1

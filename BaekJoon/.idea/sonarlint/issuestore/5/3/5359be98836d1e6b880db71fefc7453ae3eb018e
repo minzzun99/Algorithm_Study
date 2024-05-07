@@ -1,0 +1,7 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ú¾Ò¤8¸Ğñ1
+n
+java:S3008	"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûîèõşÿÿÿÿ8¸Ğñ1
+L	java:S106"+Replace this use of System.out by a logger.(³ğ¸ûÿÿÿÿ8’¸Ğñ1
+n
+java:S1871)"LThis branch's code block is the same as the block for the branch on line 37.(ÕÂĞÁÿÿÿÿÿ8“¸Ğñ1

@@ -1,0 +1,10 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂšŸüÿÿÿÿ8­³ÿ†î1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º§”À8®³ÿ†î1
+X
+java:S4973"<Strings and Boxed types should be compared using "equals()".(éºK8®³ÿ†î1
+R
+java:S1854"5Remove this useless assignment to local variable "C".(º§”À8¿³ÿ†î1
+C
+java:S1481"&Remove this unused "C" local variable.(º§”À8Â³ÿ†î1
+L	java:S106""+Replace this use of System.out by a logger.(âõ Îûÿÿÿÿ8Å³ÿ†î1

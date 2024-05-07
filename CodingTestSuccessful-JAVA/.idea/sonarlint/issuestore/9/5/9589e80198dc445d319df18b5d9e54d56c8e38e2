@@ -1,0 +1,15 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬İ¯£8ğûşŸè1
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8õûşŸè1
+G	java:S106"+Replace this use of System.out by a logger.(‡Ô8öûşŸè1
+G	java:S106"+Replace this use of System.out by a logger.(ÊØ¡Œ8öûşŸè1
+G	java:S106"+Replace this use of System.out by a logger.(ÊØ¡Œ8öûşŸè1
+G	java:S106"+Replace this use of System.out by a logger.(‡Ô8÷ûşŸè1
+G	java:S106"+Replace this use of System.out by a logger.(¢˜ğ‡8ÈÊÿŸè1
+G	java:S106"+Replace this use of System.out by a logger.(ÊØ¡Œ8ï¿ è1
+G	java:S106"+Replace this use of System.out by a logger.(ñ†ÚÓ8ï¿ è1
+G	java:S106"+Replace this use of System.out by a logger.(ÊØ¡Œ8İé‚ è1
+G	java:S106"+Replace this use of System.out by a logger.(ÊØ¡Œ8İé‚ è1
+G	java:S106"+Replace this use of System.out by a logger.(ÊØ¡Œ8İé‚ è1
+G	java:S106"+Replace this use of System.out by a logger.(ñ†ÚÓ8İé‚ è1

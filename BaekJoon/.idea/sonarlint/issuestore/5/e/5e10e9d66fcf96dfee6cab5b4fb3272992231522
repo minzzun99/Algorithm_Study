@@ -1,0 +1,9 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ЪЯРь€€€€8№ящау1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(рєНч8№ящау1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(юцВќ8№ящау1
+o
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ЬыњЎ8«ащау1
+V
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(™≥Тсъ€€€€8 ащау1
+L	java:S106,"+Replace this use of System.out by a logger.(Н≠Ћ÷ю€€€€8Ћащау1

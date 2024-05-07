@@ -1,0 +1,9 @@
+
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ı­Ïüÿÿÿÿ8² ÅÛî1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¬ùøÿÿÿÿ8³ ÅÛî1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ€Ã¯ÿÿÿÿÿ8³ ÅÛî1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅÎı8µ ÅÛî1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ëµô­8ù ÅÛî1
+A
+java:S1659"Declare "y" on a separate line.(¡Ê²‘şÿÿÿÿ8ú ÅÛî1

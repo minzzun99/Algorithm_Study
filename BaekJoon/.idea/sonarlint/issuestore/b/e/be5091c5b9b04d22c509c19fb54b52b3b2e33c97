@@ -1,0 +1,6 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ì£‹8ÇñÍó1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Õ¹²ë8ÇñÍó1
+W
+java:S1612":Replace this lambda with method reference 'Long::compare'.(£òÃ8ÒñÍó1
+L	java:S106"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8ÖĞó1

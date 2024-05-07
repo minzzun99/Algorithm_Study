@@ -1,0 +1,25 @@
+
+z	java:S135B"YReduce the total number of break and continue statements in this loop to use at most one.(ı­Ïüÿÿÿÿ8à½ÀÑğ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅÎı8â½ÀÑğ1
+e
+java:S22590"C"NullPointerException" will be thrown when invoking method "bfs()".(Áñãûùÿÿÿÿ8Ü¿ÀÑğ1
+`
+java:S2259/"C"NullPointerException" will be thrown when invoking method "bfs()".(ÉÉÄº8Ü¿ÀÑğ1
+n
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â³Ïöøÿÿÿÿ8Ü¿ÀÑğ1
+n
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â³Ïöøÿÿÿÿ8Ü¿ÀÑğ1
+A
+java:S1659"Declare "M" on a separate line.(â³Ïöøÿÿÿÿ8İ¿ÀÑğ1
+B
+java:S1659" Declare "ny" on a separate line.(ˆÃ­Ôüÿÿÿÿ8ß¿ÀÑğ1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(œÎçşÿÿÿÿÿ8á¿ÀÑğ1
+R
+java:S2696"6Make the enclosing method "static" or remove this set.(´©/8á¿ÀÑğ1
+R
+java:S2696"6Make the enclosing method "static" or remove this set.(ÔÎÖW8â¿ÀÑğ1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(´äç»ùÿÿÿÿ8â¿ÀÑğ1
+n
+java:S37769"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÄŠô@8ä¿ÀÑğ1

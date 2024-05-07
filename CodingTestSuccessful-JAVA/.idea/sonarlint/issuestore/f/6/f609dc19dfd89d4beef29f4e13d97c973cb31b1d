@@ -1,0 +1,16 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΕΞύ8βρωΐρ1
+n
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€θ€ίϊÿÿÿÿ8κρωΐρ1
+F
+java:S1659"$Declare "answer" on a separate line.(€θ€ίϊÿÿÿÿ8μρωΐρ1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(ε«–ύÿÿÿÿ8ορωΐρ1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(ª²ξΜώÿÿÿÿ8ορωΐρ1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(δ•πόÿÿÿÿ8ορωΐρ1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(¤ΰψÿÿÿÿ8πρωΐρ1
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(Κ°ς8ρρωΐρ1

@@ -1,0 +1,10 @@
+
+u
+java:S1104	"SMake adjList a static final constant or non-public and provide accessors if needed.(™”õ¥ÿÿÿÿÿ8ƒó¿Ğğ1
+O
+java:S1444	"-Make this "public static adjList" field final(™”õ¥ÿÿÿÿÿ8„ó¿Ğğ1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(§Œ÷Şùÿÿÿÿ8ïÄÆĞğ1
+D
+java:S2386*""Make member "adjList" "protected".(ä•ğŸüÿÿÿÿ8»ó¿Ğğ1
+L	java:S106@"+Replace this use of System.out by a logger.(¡ò†şÿÿÿÿ8Àó¿Ğğ1
+L	java:S106B"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8™¬ÀĞğ1

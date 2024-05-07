@@ -1,0 +1,11 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(şééûÿÿÿÿ8ÉÄã˜ó1
+h
+java:S3008	"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ–x8ÚÄã˜ó1
+k
+java:S3008"NRename this field "MAX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çØ²Œ8ÚÄã˜ó1
+p
+java:S3008"NRename this field "MIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÒ¿¬ÿÿÿÿÿ8ÚÄã˜ó1
+F	java:S106"+Replace this use of System.out by a logger.(¾şèt8ĞÁé˜ó1
+G	java:S106"+Replace this use of System.out by a logger.(ŞÎÖæ8ĞÁé˜ó1
+=	java:S131,""Add a default case to this switch.(ìúÇV8áÄã˜ó1

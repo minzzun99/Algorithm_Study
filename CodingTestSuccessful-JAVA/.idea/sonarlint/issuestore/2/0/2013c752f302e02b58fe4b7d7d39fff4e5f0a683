@@ -1,0 +1,6 @@
+
+~
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "transpose".(üŸ •8ªÿˆ ó1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡¡£¸úÿÿÿÿ8å“‚ ó1
+L	java:S106-"+Replace this use of System.out by a logger.(º¢ñ½ıÿÿÿÿ8à… ó1
+L	java:S106/"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8à… ó1

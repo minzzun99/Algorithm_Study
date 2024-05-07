@@ -1,0 +1,10 @@
+
+L
+java:S1066"/Merge this if statement with the enclosing one.(æ¤‰8äÈß¥ç1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂšŸüÿÿÿÿ8ËìÙ¥ç1
+G	java:S106"+Replace this use of System.out by a logger.(º¼É°8£Äİ¥ç1
+G	java:S106"+Replace this use of System.out by a logger.(º¼É°8üÈß¥ç1
+L	java:S106"+Replace this use of System.out by a logger.(å½†Ïüÿÿÿÿ8äÜá¥ç1
+]	java:S125$"<This block of commented-out lines of code should be removed.(æ§­µıÿÿÿÿ8ØìÙ¥ç1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ØìÙ¥ç1

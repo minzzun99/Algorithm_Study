@@ -1,0 +1,8 @@
+
+z	java:S135""YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ8‚èæí1
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(èÓÜT8Ž‚èæí1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…âíâ8Ž‚èæí1
+[
+java:S1659">Declare "y" and all following declarations on a separate line.(ÖâÈ­8®‚èæí1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ý¢¬šøÿÿÿÿ8¯‚èæí1
