@@ -277,3 +277,7 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 �
 Q.idea/sonarlint/securityhotspotstore/2/f/2f981b4b61b10d25a2c57b92f1d241887d7dfac6,5\3\53f102a50283829f0368e61b6d37dffea0d31c3b
+S
+#src/greedy/Bj5585_거스름돈.java,1\e\1e5d0adf76c915f6c46a69adcba02ae3e9e14304
+�
+Q.idea/sonarlint/securityhotspotstore/1/e/1e5d0adf76c915f6c46a69adcba02ae3e9e14304,d\c\dc706a0782bba73c189fa021fdb05845353924d5
