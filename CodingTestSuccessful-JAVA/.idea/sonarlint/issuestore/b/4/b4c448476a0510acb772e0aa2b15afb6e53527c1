@@ -1,0 +1,6 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û²£‰þÿÿÿÿ8ÊÖÆ®õ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âÎà¾8ÌÖÆ®õ1
+A
+java:S1659"$Declare "weight" on a separate line.(à”¤8ÜÖÆ®õ1
+L	java:S106,"+Replace this use of System.out by a logger.(ÌÖÿðùÿÿÿÿ8âÖÆ®õ1
