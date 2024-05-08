@@ -151,3 +151,11 @@ J
 src/ch15_dp/Problem73.java,1\2\12d8a8dabce1b85611ada9be283ae4583fcb1c1c
 J
 src/ch15_dp/Problem75.java,0\f\0fb3ab81fd2f68d89124b48aa8ffefea6937b7d3
+N
+src/ch16_greedy/Problem77.java,a\2\a28633fb7fbad71cf012fc67e5586c562635f9c9
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+Å
+Q.idea/sonarlint/securityhotspotstore/a/2/a28633fb7fbad71cf012fc67e5586c562635f9c9,d\0\d0fa0efa6a9fc9bed359ae209c46c454b3e1bbce
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
