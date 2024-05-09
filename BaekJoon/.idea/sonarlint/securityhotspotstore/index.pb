@@ -281,3 +281,11 @@ S
 #src/greedy/Bj5585_거스름돈.java,1\e\1e5d0adf76c915f6c46a69adcba02ae3e9e14304
 �
 Q.idea/sonarlint/securityhotspotstore/1/e/1e5d0adf76c915f6c46a69adcba02ae3e9e14304,d\c\dc706a0782bba73c189fa021fdb05845353924d5
+\
+,src/greedy/Bj2720_세탁소사장동혁.java,c\3\c3d4b748fd04c0c7b8d1c15480551c439d97fa19
+�
+Q.idea/sonarlint/securityhotspotstore/d/c/dc706a0782bba73c189fa021fdb05845353924d5,b\7\b7fa50d1946519ff0785859ea49e35430347f81d
+w
+G.idea/sonarlint/issuestore/d/c/dc706a0782bba73c189fa021fdb05845353924d5,0\e\0e44cf34db31e79b664bf033790d9bd916649744
+�
+Q.idea/sonarlint/securityhotspotstore/c/3/c3d4b748fd04c0c7b8d1c15480551c439d97fa19,d\6\d68b10b13792cb7d8b39c00083a3e0762dac257a
