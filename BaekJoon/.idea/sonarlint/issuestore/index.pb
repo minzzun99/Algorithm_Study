@@ -289,3 +289,5 @@ w
 G.idea/sonarlint/issuestore/d/c/dc706a0782bba73c189fa021fdb05845353924d5,0\e\0e44cf34db31e79b664bf033790d9bd916649744
 �
 Q.idea/sonarlint/securityhotspotstore/c/3/c3d4b748fd04c0c7b8d1c15480551c439d97fa19,d\6\d68b10b13792cb7d8b39c00083a3e0762dac257a
+]
+-src/math/Bj2903_중앙이동알고리즘.java,8\e\8eb3cf08eeee11f4baf88819c9449c5950260ab5
