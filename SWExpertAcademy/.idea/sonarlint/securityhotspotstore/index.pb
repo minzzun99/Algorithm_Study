@@ -23,3 +23,13 @@ B
 src/d3/SW1244.java,a\e\aee36d11433a2d2e542f30fe6ec51852eb275491
 B
 src/d3/SW1206.java,8\8\888337f3b0a73569c10c78b062552d7332b7c6e0
+N
+src/d2/SWEA1926_369게임.java,2\8\280161b4d2702e6484a6221e633c3f678d9e4ac4
+D
+src/d2/SWEA1926.java,4\b\4b5034ecde977092f1685f92ca2e4a236db8a97c
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+�
+Q.idea/sonarlint/securityhotspotstore/4/b/4b5034ecde977092f1685f92ca2e4a236db8a97c,4\d\4d2f887b83e442f3ed6ef4caf8169d9d08a6b7bf
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
