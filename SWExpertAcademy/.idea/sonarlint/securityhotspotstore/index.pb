@@ -25,8 +25,6 @@ B
 src/d3/SW1206.java,8\8\888337f3b0a73569c10c78b062552d7332b7c6e0
 N
 src/d2/SWEA1926_369게임.java,2\8\280161b4d2702e6484a6221e633c3f678d9e4ac4
-D
-src/d2/SWEA1926.java,4\b\4b5034ecde977092f1685f92ca2e4a236db8a97c
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 �
