@@ -1,9 +1,7 @@
 
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ì£‹8³ö²†÷1
-n	java:S101
-"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‹É…üøÿÿÿÿ8´ö²†÷1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ì£‹8³ö²†÷1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‹É…üøÿÿÿÿ8´ö²†÷1
 C
-java:S1659"!Declare "end" on a separate line.(ÍôÁÑýÿÿÿÿ8¾ö²†÷1
-L	java:S1061"+Replace this use of System.out by a logger.(Ž³ð¸ûÿÿÿÿ8ÃÑÊ†÷1
-F
-java:S1128")Remove this unused import 'graph.Bj1916'.(°å·¹8‘õÇ†÷1
+java:S1659
+"!Declare "end" on a separate line.(ÍôÁÑýÿÿÿÿ8¾ö²†÷1
+L	java:S106/"+Replace this use of System.out by a logger.(Ž³ð¸ûÿÿÿÿ8ÃÑÊ†÷1
