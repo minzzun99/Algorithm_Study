@@ -507,10 +507,6 @@ w
 G.idea/sonarlint/issuestore/7/9/79b6a4f014ac07fa3a0dbd9a4504b1275407be8d,6\9\693379b6f3f7996b64e871f6a45f2cd99713cd29
 �
 Q.idea/sonarlint/securityhotspotstore/a/8/a801ad9c38c60583de79341d96f8afe0d0d5292a,5\8\5889b36b5c1c182a5a00e0c4d2d89df41b4c3bd8
-w
-G.idea/sonarlint/issuestore/a/e/ae315e2c4474a325cb5bf19d6a1cc619723b610f,b\a\ba57201a45d9777995445bb6265990a2e0e3820c
-�
-Q.idea/sonarlint/securityhotspotstore/a/e/ae315e2c4474a325cb5bf19d6a1cc619723b610f,4\8\48aa585e47e68fe28a1423497b301325205b45c1
 �
 Q.idea/sonarlint/securityhotspotstore/7/9/79b6a4f014ac07fa3a0dbd9a4504b1275407be8d,5\0\50cbb5e2ebb456921f1245e25f7be5f1f24eaf94
 �
@@ -1907,3 +1903,9 @@ Q.idea/sonarlint/securityhotspotstore/9/9/99c86167b1e38241ef174054df4264cd0b761e
 Q.idea/sonarlint/securityhotspotstore/4/4/4452b7a2d62338f1a45072285a10eb6e6ad2aa18,2\c\2c60d58920e7fa1e765bab6a4f7b94a2ee349c4f
 �
 Q.idea/sonarlint/securityhotspotstore/5/a/5a2f87f11c45ccdc885ea27e352796901fb7b5fa,6\0\6091c5c24651a0439b0c33adde88bf310a0609af
+X
+(src/graph/Bj9372_상근이의여행.java,f\2\f20174159829371c19035faf35f64b43fcb478dd
+S
+#src/greedy/Bj1789_수들의합.java,f\a\fa2630ce12b0f8a8dcc06026d417a513ad4083c6
+P
+ src/graph/Bj14502_연구소.java,2\a\2ac3f8624ce9250daa82a6f7bf7291719f0cdfac
