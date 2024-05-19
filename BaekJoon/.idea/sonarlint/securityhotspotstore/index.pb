@@ -1903,3 +1903,5 @@ P
  src/graph/Bj14502_연구소.java,2\a\2ac3f8624ce9250daa82a6f7bf7291719f0cdfac
 _
 /src/string/Bj4458_첫글자를대문자로.java,6\e\6e7e2f245e1115439c4cdf475ec1ef076a546508
+P
+ src/greedy/Bj1439_뒤집기.java,f\a\fa400aaef2a8a1827ab317ecfe9e683e9925260c
