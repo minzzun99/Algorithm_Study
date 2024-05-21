@@ -1671,3 +1671,5 @@ D
 src/Bj10172_개.java,e\f\ef472de4e9074f5bbd7aa37e6c371caf938fad9c
 `
 0src/binarysearch/Bj28127_숫자탑과쿼리.java,9\4\942d5eaab7fbd4388d0032880b773295732d54ce
+N
+src/math/Bj2485_가로수.java,e\5\e5cbd64177f754ae54d34805ab3be53197d32388
