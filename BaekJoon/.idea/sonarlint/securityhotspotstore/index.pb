@@ -1677,3 +1677,7 @@ U
 %src/graph/Bj2583_영역구하기.java,f\a\fa807357e0d8b34bdbb19f512ff08d3e7ad73f33
 R
 "src/dp/Bj9461_파도반수열.java,9\e\9eb37cbf5331d8ee91f03e6373bb9456e2a997ac
+c
+3src/binarysearch/Bj1920_수찾기_이진탐색.java,4\6\46877848c4ff55d959ec511bc9945512846ed1c4
+\
+,src/binarysearch/Bj2805_나무자르기.java,c\3\c3b62974b565244294ace8638eb7d0c2f13f75db
