@@ -1681,3 +1681,5 @@ c
 3src/binarysearch/Bj1920_수찾기_이진탐색.java,4\6\46877848c4ff55d959ec511bc9945512846ed1c4
 \
 ,src/binarysearch/Bj2805_나무자르기.java,c\3\c3b62974b565244294ace8638eb7d0c2f13f75db
+T
+$src/math/Bj1271_엄청난부자.java,e\4\e4ba3f0dae3b4575c364a1eb172e857f7993804b
