@@ -1683,3 +1683,7 @@ c
 ,src/binarysearch/Bj2805_나무자르기.java,c\3\c3b62974b565244294ace8638eb7d0c2f13f75db
 T
 $src/math/Bj1271_엄청난부자.java,e\4\e4ba3f0dae3b4575c364a1eb172e857f7993804b
+S
+#src/graph/Bj10026_적록색약.java,b\0\b0d0f136cb9d99b5dd1de8a9203cc59933d41f1c
+L
+src/bronze5/Bj2393_Rock.java,6\7\67d3b400720922f29e4103cd44741952338a206d
