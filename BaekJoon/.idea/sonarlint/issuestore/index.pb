@@ -1687,3 +1687,5 @@ S
 #src/graph/Bj10026_적록색약.java,b\0\b0d0f136cb9d99b5dd1de8a9203cc59933d41f1c
 L
 src/bronze5/Bj2393_Rock.java,6\7\67d3b400720922f29e4103cd44741952338a206d
+]
+-src/hash/Bj9536_여우는어떻게울지.java,b\3\b323fcad74a41214e7766f76b4cc02d406338cbe
