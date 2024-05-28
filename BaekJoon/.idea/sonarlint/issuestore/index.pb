@@ -1689,3 +1689,5 @@ L
 src/bronze5/Bj2393_Rock.java,6\7\67d3b400720922f29e4103cd44741952338a206d
 ]
 -src/hash/Bj9536_여우는어떻게울지.java,b\3\b323fcad74a41214e7766f76b4cc02d406338cbe
+X
+(src/graph/Bj7562_나이트의이동.java,a\e\aedac4773263d935bd983c1d035402596231ad60
