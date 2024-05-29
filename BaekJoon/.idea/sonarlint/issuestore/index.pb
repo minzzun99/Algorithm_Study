@@ -1695,7 +1695,7 @@ Y
 )src/string/Bj1032_명령프롬프트.java,5\9\5973c74cf46cd69bf19db68c2d8eeff8e3c5ca6c
 D
 src/sort/Bj6840.java,c\f\cf72fe58981b9a4a0ab64c99439c7a6b93801d5a
-R
-"src/sort/Bj16496_큰수만듥.java,6\2\62c383bd7866403a6b11a9e1ce5f84427443e9cd
 U
 %src/sort/Bj16496_큰수만들기.java,0\7\0780afc8f6ad27f952e9fce6edde15b069d166c2
+D
+src/math/Bj7891.java,b\f\bf3f3d5c4ff6a8d62e26d7f630851ff483e47f01
