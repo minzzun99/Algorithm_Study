@@ -1703,3 +1703,5 @@ D
 +src/hash/Bj10546_배부른마라토너.java,3\2\32ead977c12fd84a28d3782529830590230a9347
 K
 src/graph/Bj24480_dfs2.java,1\c\1c6648b191d441994691ce1941e8adc48f20c906
+K
+src/graph/Bj24444_bfs1.java,e\d\ed858e3b564e64df3dd54fe3ea64045b497455e3
