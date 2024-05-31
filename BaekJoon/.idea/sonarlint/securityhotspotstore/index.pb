@@ -1701,3 +1701,5 @@ D
 src/math/Bj7891.java,b\f\bf3f3d5c4ff6a8d62e26d7f630851ff483e47f01
 [
 +src/hash/Bj10546_배부른마라토너.java,3\2\32ead977c12fd84a28d3782529830590230a9347
+K
+src/graph/Bj24480_dfs2.java,1\c\1c6648b191d441994691ce1941e8adc48f20c906
