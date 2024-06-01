@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.StringTokenizer;
 
-public class Bj24479 {
+public class Bj24479_dfs1 {
     //인접한 리스트를 저장할 ArrayList
     static ArrayList<Integer>[] adjList;
     //방문 순서 저장할 배열
