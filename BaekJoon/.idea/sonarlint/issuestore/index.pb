@@ -1709,3 +1709,5 @@ Q
 !src/math/Bj5522_카드게임.java,b\3\b38d1471d33a64195d664ee0feeade40e68162a6
 a
 1src/implementation/Bj9653_스타워즈로고.java,1\0\1098afd8baf772ce30b7664208279dcba1873a09
+_
+/src/implementation/Bj15680_연세대학교.java,6\7\675be6964f69d0b286170522119693314bdc4c22
