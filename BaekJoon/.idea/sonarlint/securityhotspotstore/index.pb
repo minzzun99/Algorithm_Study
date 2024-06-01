@@ -1711,3 +1711,7 @@ a
 1src/implementation/Bj9653_스타워즈로고.java,1\0\1098afd8baf772ce30b7664208279dcba1873a09
 _
 /src/implementation/Bj15680_연세대학교.java,6\7\675be6964f69d0b286170522119693314bdc4c22
+K
+src/graph/Bj24479_dfs1.java,0\3\03411905b231b95037f54624b7a3ce2bcda8bd6f
+K
+src/graph/Bj24445_bfs2.java,7\2\72f0e0d93b711e51562c8d72589e4abf5ec2c4ef
