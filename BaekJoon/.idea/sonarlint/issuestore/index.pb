@@ -143,8 +143,6 @@ D
 src/sort/Bj2910.java,7\7\77198ecf294f54917a9706d367f0253ca12c8015
 D
 src/map/Bj26069.java,a\b\abba3c67344c41c8b502ba82d447c5410e6067c1
-F
-src/graph/Bj24479.java,b\d\bdb12008fcbe5ebb8f4706a576b72fcafc4a8ac4
 E
 src/graph/Bj2606.java,0\5\05454d24eb8e5947793f110e29afe95d2c5168b0
 E
@@ -1715,3 +1713,5 @@ K
 src/graph/Bj24479_dfs1.java,0\3\03411905b231b95037f54624b7a3ce2bcda8bd6f
 K
 src/graph/Bj24445_bfs2.java,7\2\72f0e0d93b711e51562c8d72589e4abf5ec2c4ef
+e
+5src/implementation/Bj27889_특별한학교이름.java,1\e\1ee76aa7a04d3d391f65fa695d60b00da53a4ff5
