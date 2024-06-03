@@ -1719,3 +1719,5 @@ L
 src/dp/Bj1149_RGB거리.java,f\6\f6755dcbfb7eb89b013f2453af4d5d2a6b309278
 Q
 !src/math/Bj4134_다음소수.java,8\f\8fc56c47231d6663673326bd1ceef8fdd9c36d86
+S
+#src/math/Bj4134_다음소수_2.java,f\f\ff254cb55e590ce7ea12cc1997a6d4317918d3b0
