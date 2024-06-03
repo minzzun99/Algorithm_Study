@@ -1717,3 +1717,5 @@ e
 5src/implementation/Bj27889_특별한학교이름.java,1\e\1ee76aa7a04d3d391f65fa695d60b00da53a4ff5
 L
 src/dp/Bj1149_RGB거리.java,f\6\f6755dcbfb7eb89b013f2453af4d5d2a6b309278
+Q
+!src/math/Bj4134_다음소수.java,8\f\8fc56c47231d6663673326bd1ceef8fdd9c36d86
