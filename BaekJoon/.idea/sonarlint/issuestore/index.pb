@@ -1723,3 +1723,5 @@ S
 #src/math/Bj4134_다음소수_2.java,f\f\ff254cb55e590ce7ea12cc1997a6d4317918d3b0
 O
 src/graph/Bj7569_토마토.java,9\0\90198663fa5722f0c85ab5de81c84153987e9c3c
+]
+-src/bronze5/Bj9654_나부함대데이터.java,b\3\b39fdccf7a72610b3385350bf745d40545ffee52
