@@ -1725,3 +1725,5 @@ O
 src/graph/Bj7569_토마토.java,9\0\90198663fa5722f0c85ab5de81c84153987e9c3c
 ]
 -src/bronze5/Bj9654_나부함대데이터.java,b\3\b39fdccf7a72610b3385350bf745d40545ffee52
+Q
+!src/greedy/Bj13305_주유소.java,0\4\04d5d7cd389d81e05a03bedf61a5914bf24e4c69
