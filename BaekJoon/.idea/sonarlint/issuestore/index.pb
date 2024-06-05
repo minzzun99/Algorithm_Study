@@ -1727,3 +1727,5 @@ O
 -src/bronze5/Bj9654_나부함대데이터.java,b\3\b39fdccf7a72610b3385350bf745d40545ffee52
 Q
 !src/greedy/Bj13305_주유소.java,0\4\04d5d7cd389d81e05a03bedf61a5914bf24e4c69
+V
+&src/bronze5/Bj24262_수행시간1.java,6\2\62b6273362fed9c128b31948409ff2c284508853
