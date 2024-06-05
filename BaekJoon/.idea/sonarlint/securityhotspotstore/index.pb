@@ -1731,3 +1731,7 @@ V
 &src/bronze5/Bj24262_수행시간1.java,6\2\62b6273362fed9c128b31948409ff2c284508853
 O
 src/sort/Bj10825_국영수.java,8\c\8c3a69c9b49f16ba77faf2a1dffd36b40730209e
+S
+#src/greedy/Bj1715_카드정렬.java,7\3\739cbb6b8690503ce99332ffdcdb398773404429
+Y
+)src/greedy/Bj1715_카드정렬하기.java,0\a\0a0e76961434ce323b261db180eba5c8cb9c07f7
