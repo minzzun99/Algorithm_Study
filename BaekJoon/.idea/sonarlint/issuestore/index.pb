@@ -1735,3 +1735,5 @@ S
 #src/greedy/Bj1715_카드정렬.java,7\3\739cbb6b8690503ce99332ffdcdb398773404429
 Y
 )src/greedy/Bj1715_카드정렬하기.java,0\a\0a0e76961434ce323b261db180eba5c8cb9c07f7
+L
+src/bronze5/Bj10170_NFC.java,7\e\7e6737e42ab83d396e0416591bb5f31080966eca
