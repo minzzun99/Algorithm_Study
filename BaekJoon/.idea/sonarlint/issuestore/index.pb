@@ -1729,3 +1729,5 @@ Q
 !src/greedy/Bj13305_주유소.java,0\4\04d5d7cd389d81e05a03bedf61a5914bf24e4c69
 V
 &src/bronze5/Bj24262_수행시간1.java,6\2\62b6273362fed9c128b31948409ff2c284508853
+O
+src/sort/Bj10825_국영수.java,8\c\8c3a69c9b49f16ba77faf2a1dffd36b40730209e
