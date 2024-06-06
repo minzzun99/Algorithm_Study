@@ -1737,3 +1737,5 @@ L
 src/bronze5/Bj10170_NFC.java,7\e\7e6737e42ab83d396e0416591bb5f31080966eca
 K
 src/bronze5/Bj4999_아.java,2\9\293a2110a4d0ad3b99b5fe10f688ec0164d41a47
+R
+"src/dp/Bj1932_정수삼각형.java,5\9\59c42354894fdc27f5472e14ac4580875eb55bd1
