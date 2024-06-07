@@ -1739,3 +1739,5 @@ K
 src/bronze5/Bj4999_아.java,2\9\293a2110a4d0ad3b99b5fe10f688ec0164d41a47
 R
 "src/dp/Bj1932_정수삼각형.java,5\9\59c42354894fdc27f5472e14ac4580875eb55bd1
+X
+(src/bronze5/Bj16394_홍익대학교.java,4\d\4dee251c1efd4eff5896eaf7dfcac4b3099f4b31
