@@ -1741,3 +1741,5 @@ R
 "src/dp/Bj1932_정수삼각형.java,5\9\59c42354894fdc27f5472e14ac4580875eb55bd1
 X
 (src/bronze5/Bj16394_홍익대학교.java,4\d\4dee251c1efd4eff5896eaf7dfcac4b3099f4b31
+P
+ src/datastructure/Bj5430_AC.java,7\4\74077a15b907b978f9006170a51441ff08dd567b
