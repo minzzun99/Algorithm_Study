@@ -1743,3 +1743,5 @@ X
 (src/bronze5/Bj16394_홍익대학교.java,4\d\4dee251c1efd4eff5896eaf7dfcac4b3099f4b31
 P
  src/datastructure/Bj5430_AC.java,7\4\74077a15b907b978f9006170a51441ff08dd567b
+a
+1src/bronze5/Bj14645_와이버스부릉부릉.java,3\6\3671c82c230b0887f84ee09dcc7f673e9505003f
