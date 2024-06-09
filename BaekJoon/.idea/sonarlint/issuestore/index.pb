@@ -1751,3 +1751,5 @@ I
 src/math/Bj15296_SSD.java,e\6\e6d0188b4893d7c519cb2e885380de96e88df0be
 >
 src/Test1.java,c\6\c69d816af0be3a7068d261d1988fc40e62cd9330
+K
+src/math/Bj2935_소음.java,9\d\9d7876334cdeac46617cadf5202bd8b8b8b9f5a2
