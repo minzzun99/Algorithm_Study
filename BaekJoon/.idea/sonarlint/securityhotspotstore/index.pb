@@ -1745,3 +1745,5 @@ P
  src/datastructure/Bj5430_AC.java,7\4\74077a15b907b978f9006170a51441ff08dd567b
 a
 1src/bronze5/Bj14645_와이버스부릉부릉.java,3\6\3671c82c230b0887f84ee09dcc7f673e9505003f
+X
+(src/bronze5/Bj15962_새로운시작.java,0\f\0fd9d8bd2473eb66746d6dc359e548c460fd2b53
