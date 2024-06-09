@@ -1747,3 +1747,7 @@ a
 1src/bronze5/Bj14645_와이버스부릉부릉.java,3\6\3671c82c230b0887f84ee09dcc7f673e9505003f
 X
 (src/bronze5/Bj15962_새로운시작.java,0\f\0fd9d8bd2473eb66746d6dc359e548c460fd2b53
+I
+src/math/Bj15296_SSD.java,e\6\e6d0188b4893d7c519cb2e885380de96e88df0be
+>
+src/Test1.java,c\6\c69d816af0be3a7068d261d1988fc40e62cd9330
