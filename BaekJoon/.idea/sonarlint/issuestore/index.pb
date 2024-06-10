@@ -1755,3 +1755,5 @@ K
 src/math/Bj2935_소음.java,9\d\9d7876334cdeac46617cadf5202bd8b8b8b9f5a2
 U
 %src/math/Bj14710_고장난시계.java,6\9\6910ffbbcf5eaee7bbd202767d0735549beed0a9
+U
+%src/bronze5/Bj16430_제리와톰.java,0\a\0a18ed2ad71389e5453f377ccdfc094bd908e5f4
