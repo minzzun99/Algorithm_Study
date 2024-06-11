@@ -1761,3 +1761,5 @@ N
 src/math/Bj9693_시파르.java,0\4\04c277d97496677923a04972a0ea3166d5e3eac6
 O
 src/math/Bj28419_더하기.java,3\d\3df68e9dc970c8d7e299e4e15e6e800aec1c192b
+Q
+!src/map/Bj24465_데뷔의꿈.java,d\5\d587658e9d07d05b1cc8f6f1ba90387fe3a3ef6a
