@@ -1757,3 +1757,5 @@ U
 %src/math/Bj14710_고장난시계.java,6\9\6910ffbbcf5eaee7bbd202767d0735549beed0a9
 U
 %src/bronze5/Bj16430_제리와톰.java,0\a\0a18ed2ad71389e5453f377ccdfc094bd908e5f4
+N
+src/math/Bj9693_시파르.java,0\4\04c277d97496677923a04972a0ea3166d5e3eac6
