@@ -1765,3 +1765,7 @@ Q
 !src/map/Bj24465_데뷔의꿈.java,d\5\d587658e9d07d05b1cc8f6f1ba90387fe3a3ef6a
 k
 ;src/binarysearch/Bj7795_먹을것인가먹힐것인가.java,9\7\979ce3c3e99160f11fbf168ac9624ffafbb56126
+Q
+!src/math/Bj3042_트리플렛.java,e\f\efd67b63fa9edb1876c84f8e2ce5c2f3f26bd2a8
+j
+:src/math/Bj3042_트리플렛_재시도CCW알고리즘.java,9\c\9ca239aca703f87b63aa69ff12ab5b244311b390
