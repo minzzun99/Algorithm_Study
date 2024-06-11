@@ -1759,3 +1759,5 @@ U
 %src/bronze5/Bj16430_제리와톰.java,0\a\0a18ed2ad71389e5453f377ccdfc094bd908e5f4
 N
 src/math/Bj9693_시파르.java,0\4\04c277d97496677923a04972a0ea3166d5e3eac6
+O
+src/math/Bj28419_더하기.java,3\d\3df68e9dc970c8d7e299e4e15e6e800aec1c192b
