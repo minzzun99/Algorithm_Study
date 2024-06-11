@@ -1763,3 +1763,5 @@ O
 src/math/Bj28419_더하기.java,3\d\3df68e9dc970c8d7e299e4e15e6e800aec1c192b
 Q
 !src/map/Bj24465_데뷔의꿈.java,d\5\d587658e9d07d05b1cc8f6f1ba90387fe3a3ef6a
+k
+;src/binarysearch/Bj7795_먹을것인가먹힐것인가.java,9\7\979ce3c3e99160f11fbf168ac9624ffafbb56126
