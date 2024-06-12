@@ -1769,3 +1769,5 @@ j
 :src/math/Bj3042_트리플렛_재시도CCW알고리즘.java,9\c\9ca239aca703f87b63aa69ff12ab5b244311b390
 N
 src/bronze5/Bj3733_Shares.java,d\f\df07c103e5c2aaeb8fb978ae6039039438d3b2e2
+T
+$src/bronze5/Bj5341_피라미드.java,1\6\1657b89d3529627b91d4a2d0643ff24496ca1885
