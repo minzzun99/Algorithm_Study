@@ -1773,3 +1773,5 @@ T
 $src/bronze5/Bj5341_피라미드.java,1\6\1657b89d3529627b91d4a2d0643ff24496ca1885
 M
 src/bronze5/Bj15740_AB_9.java,4\9\4928595947cdc3286f5bf101c92e8604af6081fd
+[
++src/implementation/Bj2979_트럭주차.java,d\9\d9df2f0089457b315d203c9a57b9651dd49dd097
