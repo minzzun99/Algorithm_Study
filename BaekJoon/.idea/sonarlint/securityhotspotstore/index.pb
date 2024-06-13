@@ -1775,3 +1775,5 @@ M
 src/bronze5/Bj15740_AB_9.java,4\9\4928595947cdc3286f5bf101c92e8604af6081fd
 [
 +src/implementation/Bj2979_트럭주차.java,d\9\d9df2f0089457b315d203c9a57b9651dd49dd097
+U
+%src/implementation/Bj2966_찍기.java,d\a\da68a1dbf37752a287c81705fcfd5f561d6fece3
