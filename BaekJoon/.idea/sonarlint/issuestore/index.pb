@@ -1781,3 +1781,5 @@ _
 /src/implementation/Bj29713_띠부띠부씰.java,7\2\721aed10c406aedc1617116cae8b4709fd70e98b
 V
 &src/string/Bj4821_페이지세기.java,0\9\093cce27856fb01f61360ebbac1d1e99d3202a8c
+M
+src/bronze5/Bj8370_plane.java,d\e\de3acf741c9b8cc50e14debfc09c30e9da142794
