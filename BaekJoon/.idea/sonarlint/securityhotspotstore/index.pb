@@ -1783,3 +1783,5 @@ V
 &src/string/Bj4821_페이지세기.java,0\9\093cce27856fb01f61360ebbac1d1e99d3202a8c
 M
 src/bronze5/Bj8370_plane.java,d\e\de3acf741c9b8cc50e14debfc09c30e9da142794
+j
+:src/bronze5/Bj15727_조별과제조장이사라졌다.java,3\2\322f3183d44cf3f39adec0d543a7dbf6c555425f
