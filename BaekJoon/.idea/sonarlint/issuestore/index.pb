@@ -1779,3 +1779,5 @@ U
 %src/implementation/Bj2966_찍기.java,d\a\da68a1dbf37752a287c81705fcfd5f561d6fece3
 _
 /src/implementation/Bj29713_띠부띠부씰.java,7\2\721aed10c406aedc1617116cae8b4709fd70e98b
+V
+&src/string/Bj4821_페이지세기.java,0\9\093cce27856fb01f61360ebbac1d1e99d3202a8c
