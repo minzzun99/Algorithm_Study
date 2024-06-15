@@ -1785,3 +1785,5 @@ M
 src/bronze5/Bj8370_plane.java,d\e\de3acf741c9b8cc50e14debfc09c30e9da142794
 j
 :src/bronze5/Bj15727_조별과제조장이사라졌다.java,3\2\322f3183d44cf3f39adec0d543a7dbf6c555425f
+c
+3src/greedy/Bj30404_오리와박수치는춘배.java,0\e\0e07d2bf52bcca7f5140f8489ba24d8dcff4e981
