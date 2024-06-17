@@ -1795,3 +1795,5 @@ X
 (src/bronze5/Bj16170_오늘날짜는.java,9\2\92477db04df4e068c1725149ec1b346fcab42e9c
 W
 'src/greedy/Bj31589_포도주시음.java,2\8\28729a66fddb331ee1e227724b7391e04447bf3e
+X
+(src/bruteforce/Bj13908_비밀번호.java,1\4\148e662d4800a358d5b42eea410e8f7b54ea9f61
