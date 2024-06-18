@@ -1797,3 +1797,5 @@ W
 'src/greedy/Bj31589_포도주시음.java,2\8\28729a66fddb331ee1e227724b7391e04447bf3e
 X
 (src/bruteforce/Bj13908_비밀번호.java,1\4\148e662d4800a358d5b42eea410e8f7b54ea9f61
+O
+src/bronze5/Bj14928_큰수.java,6\9\6960cb70a8339717a72000f6e197b017fa6ef74d
