@@ -1801,3 +1801,5 @@ O
 src/bronze5/Bj14928_큰수.java,6\9\6960cb70a8339717a72000f6e197b017fa6ef74d
 R
 "src/bronze5/Bj15963_카시오.java,a\d\ad77b804ff1c0918bb63e7cde7c775898b1b23d5
+S
+#src/string/Bj2789_유학금지.java,4\e\4ec7e4c0dfdfd56b7844ab09dc1f27a416d712d2
