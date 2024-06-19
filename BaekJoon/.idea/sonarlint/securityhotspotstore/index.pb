@@ -1805,3 +1805,5 @@ S
 #src/string/Bj2789_유학금지.java,4\e\4ec7e4c0dfdfd56b7844ab09dc1f27a416d712d2
 Q
 !src/sort/Bj2246_콘도선정.java,9\1\9137b8631230749198773b75d99738d17538f6e4
+R
+"src/math/Bj17247_택시거리.java,6\c\6c0b119e163d5b1641e27e8cdd4829276180371d
