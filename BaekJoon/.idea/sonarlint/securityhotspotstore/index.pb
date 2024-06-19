@@ -1803,3 +1803,5 @@ R
 "src/bronze5/Bj15963_카시오.java,a\d\ad77b804ff1c0918bb63e7cde7c775898b1b23d5
 S
 #src/string/Bj2789_유학금지.java,4\e\4ec7e4c0dfdfd56b7844ab09dc1f27a416d712d2
+Q
+!src/sort/Bj2246_콘도선정.java,9\1\9137b8631230749198773b75d99738d17538f6e4
