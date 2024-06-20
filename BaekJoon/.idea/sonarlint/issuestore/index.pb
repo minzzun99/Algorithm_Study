@@ -1815,3 +1815,7 @@ X
 (src/math/Bj13900_순서쌍곱의합.java,8\d\8d3d6599f638559936c567531bf7ba2d2bad6bee
 [
 +src/bruteforce/Bj14500_테트로미노.java,5\d\5d056a8e7a7d397e3c173d61ab1db4069d592a56
+g
+7src/bronze5/Bj14581_팬들에게둘러싸인홍준.java,0\c\0cfe1d7c2bc27d6d9a4ccc0fbee9c22b0b38d7eb
+V
+&src/graph/Bj14500_테트로미노.java,8\b\8b942483a26ea0286e83b1505c2651231a59b3ff
