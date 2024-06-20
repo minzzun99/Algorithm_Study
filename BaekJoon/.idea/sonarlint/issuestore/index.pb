@@ -1809,3 +1809,5 @@ R
 "src/math/Bj17247_택시거리.java,6\c\6c0b119e163d5b1641e27e8cdd4829276180371d
 O
 src/bronze5/Bj20492_세금.java,0\5\05826d1fd776b73a4cde9400a2f6d53d74cb811b
+V
+&src/greedy/Bj2891_카약과강풍.java,7\2\7287e6a83452cc803d1c0afd49bb130970416104
