@@ -19,3 +19,4 @@ public class Bj2393_Rock {
         System.out.println(sb);
     }
 }
+

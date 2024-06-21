@@ -1819,3 +1819,5 @@ V
 &src/graph/Bj14500_테트로미노.java,8\b\8b942483a26ea0286e83b1505c2651231a59b3ff
 U
 %src/bronze5/Bj24900_한별찍기.java,8\7\872e4485aa241da81ee3d253942ba8769691e86a
+]
+-src/bruteforce/Bj3024_마라톤틱택토.java,e\a\eaeb006a3f03c54e2a397fea0c12edf6eb05d9aa
