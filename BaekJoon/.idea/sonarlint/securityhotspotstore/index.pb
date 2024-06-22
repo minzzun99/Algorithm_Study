@@ -1821,3 +1821,5 @@ U
 %src/bronze5/Bj24900_한별찍기.java,8\7\872e4485aa241da81ee3d253942ba8769691e86a
 ]
 -src/bruteforce/Bj3024_마라톤틱택토.java,e\a\eaeb006a3f03c54e2a397fea0c12edf6eb05d9aa
+T
+$src/sort/Bj1431_시리얼번호.java,8\6\867d3bc7a574c503a85e5906f5d6b59ece5007c2
