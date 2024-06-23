@@ -1827,3 +1827,5 @@ a
 1src/bronze5/Bj17256_달달함이넘쳐흘러.java,4\1\41eadf30f3f9bc5c5d3ff87867769acebe9a22f1
 K
 src/math/Bj1629_곱셈.java,b\b\bbce59307c49be101b5aeddc5f3323c8ba5c8705
+]
+-src/greedy/Bj11497_통나무건너뛰기.java,1\4\14b9a8944054504f9563b271dce5ac1875010d65
