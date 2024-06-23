@@ -1829,3 +1829,5 @@ K
 src/math/Bj1629_곱셈.java,b\b\bbce59307c49be101b5aeddc5f3323c8ba5c8705
 ]
 -src/greedy/Bj11497_통나무건너뛰기.java,1\4\14b9a8944054504f9563b271dce5ac1875010d65
+Y
+)src/bronze5/Bj23234_TheWorldResponds.java,4\d\4dd279dee0bc26ccc83b4ba29ba888600ade40f8
