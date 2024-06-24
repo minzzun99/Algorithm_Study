@@ -1833,3 +1833,5 @@ Y
 )src/bronze5/Bj23234_TheWorldResponds.java,4\d\4dd279dee0bc26ccc83b4ba29ba888600ade40f8
 X
 (src/math/Bj26258_다중일차함수.java,5\2\52ec98c52afd7de1d2b624629e757faa4a4e80a1
+[
++src/implementation/Bj5600_품질검사.java,9\4\9476d61dd2517a641e5ae37eb94fb53fc45124fd
