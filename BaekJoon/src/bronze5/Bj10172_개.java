@@ -1,3 +1,5 @@
+package bronze5;
+
 public class Bj10172_개 {
     public static void main(String[] args) {
         System.out.println("|\\_/|");
