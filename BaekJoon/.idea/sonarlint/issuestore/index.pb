@@ -1839,3 +1839,5 @@ c
 3src/datastructure/Bj7662_이중우선순위큐.java,4\3\4390478554e35ca07c2b164dc6c4047032648af7
 L
 src/bronze5/Bj10172_개.java,2\3\23279d52a2191b133f72553741d5f82b22284387
+n
+>src/bronze5/Bj25311_UCPC에서가장쉬운문제번호는.java,e\d\eda4aa09d78f3a5a8a0de8bbec7ee1ef4cfaacd3
