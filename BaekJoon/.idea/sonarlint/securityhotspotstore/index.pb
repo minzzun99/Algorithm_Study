@@ -1841,3 +1841,5 @@ n
 >src/bronze5/Bj25311_UCPC에서가장쉬운문제번호는.java,e\d\eda4aa09d78f3a5a8a0de8bbec7ee1ef4cfaacd3
 k
 ;src/implementation/Bj15813_너의이름은몇점이니.java,6\9\69b9f15dd24471592d464bdbf7ab16212dbe29bc
+a
+1src/implementation/Bj4564_숫자카드놀이.java,a\c\ac68088b527322cebef60a98b158aecc0599aa67
