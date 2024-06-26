@@ -1665,8 +1665,6 @@ G
 src/math/Bj3046_R2.java,d\0\d08b63a03e319f451ac5b64743274e37fc289dfe
 E
 src/math/Bj10757.java,3\3\33757f46ab279114ec301bb074b258b2954dbf29
-D
-src/Bj10172_개.java,e\f\ef472de4e9074f5bbd7aa37e6c371caf938fad9c
 `
 0src/binarysearch/Bj28127_숫자탑과쿼리.java,9\4\942d5eaab7fbd4388d0032880b773295732d54ce
 N
@@ -1841,3 +1839,5 @@ L
 src/bronze5/Bj10172_개.java,2\3\23279d52a2191b133f72553741d5f82b22284387
 n
 >src/bronze5/Bj25311_UCPC에서가장쉬운문제번호는.java,e\d\eda4aa09d78f3a5a8a0de8bbec7ee1ef4cfaacd3
+k
+;src/implementation/Bj15813_너의이름은몇점이니.java,6\9\69b9f15dd24471592d464bdbf7ab16212dbe29bc
