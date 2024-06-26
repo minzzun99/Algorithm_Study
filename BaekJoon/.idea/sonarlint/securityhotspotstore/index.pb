@@ -1843,3 +1843,5 @@ k
 ;src/implementation/Bj15813_너의이름은몇점이니.java,6\9\69b9f15dd24471592d464bdbf7ab16212dbe29bc
 a
 1src/implementation/Bj4564_숫자카드놀이.java,a\c\ac68088b527322cebef60a98b158aecc0599aa67
+S
+#src/dp/Bj12865_평범한배낭.java,d\0\d0826b55b0a65300302f28533f701b86e590b816
