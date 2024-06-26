@@ -1845,3 +1845,5 @@ a
 1src/implementation/Bj4564_숫자카드놀이.java,a\c\ac68088b527322cebef60a98b158aecc0599aa67
 S
 #src/dp/Bj12865_평범한배낭.java,d\0\d0826b55b0a65300302f28533f701b86e590b816
+U
+%src/bronze5/Bj24883_자동완성.java,f\d\fdfbd715841c41728b04622efa3aa62051efa34c
