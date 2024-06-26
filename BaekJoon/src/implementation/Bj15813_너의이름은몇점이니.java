@@ -13,6 +13,7 @@ public class Bj15813_너의이름은몇점이니 {
         for (int i = 0; i < N; i++) {
             sum += name.charAt(i) - 'A' + 1;
         }
+
         System.out.println(sum);
     }
 }
