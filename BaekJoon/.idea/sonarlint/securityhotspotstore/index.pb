@@ -1853,3 +1853,5 @@ T
 $src/sort/Bj1251_단어나누기.java,b\8\b877b08e87b479fe2636788b073f6beda3c7bfdd
 X
 (src/math/Bj17211_좋은날싫은날.java,f\f\ff8447d2beaa2b0a2e80d8767e3be8cda053bce1
+R
+"src/bronze5/Bj27294_몇개고.java,5\b\5ba8f8abbdfc443f3cbf03ac965023decc180d78
