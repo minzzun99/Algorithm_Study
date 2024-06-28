@@ -1855,3 +1855,5 @@ X
 (src/math/Bj17211_좋은날싫은날.java,f\f\ff8447d2beaa2b0a2e80d8767e3be8cda053bce1
 R
 "src/bronze5/Bj27294_몇개고.java,5\b\5ba8f8abbdfc443f3cbf03ac965023decc180d78
+R
+"src/bronze5/Bj20254_SiteScore.java,a\e\ae3f4ebed869d97df572cd1e86cf134e26d8d986
