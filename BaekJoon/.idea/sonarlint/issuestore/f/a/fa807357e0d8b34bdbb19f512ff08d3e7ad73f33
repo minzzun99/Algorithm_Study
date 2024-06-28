@@ -1,0 +1,14 @@
+
+L
+java:S1066B"/Merge this if statement with the enclosing one.(ØÑÙ²8˜ÜäÃú1
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍæÅ8™ÜäÃú1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(³‹ªëşÿÿÿÿ8šÜäÃú1
+n
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â³Ïöøÿÿÿÿ8šŞäÃú1
+n
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â³Ïöøÿÿÿÿ8šŞäÃú1
+A
+java:S1659"Declare "M" on a separate line.(â³Ïöøÿÿÿÿ8šŞäÃú1
+L	java:S1068"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8¦ŞäÃú1
+]
+java:S1126J"AReplace this if-then-else statement by a single return statement.(ô¸™8¨ŞäÃú1

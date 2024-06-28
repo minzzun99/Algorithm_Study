@@ -1,0 +1,17 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¢ññ±øÿÿÿÿ8¬‹ÃŞı1
+n
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì‚ÿÿÿÿÿ8ÃŞı1
+n
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì‚ÿÿÿÿÿ8ÃŞı1
+n
+java:S3008"LRename this field "H" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì‚ÿÿÿÿÿ8’ÃŞı1
+`
+java:S1659">Declare "M" and all following declarations on a separate line.(Ì‚ÿÿÿÿÿ8•ÃŞı1
+[
+java:S1659">Declare "y" and all following declarations on a separate line.(İÎî¶8šÃŞı1
+G	java:S106."+Replace this use of System.out by a logger.(î³ñŒ8¢ÃŞı1
+o
+java:S37761"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Á³“8å×ÍŞı1
+^
+java:S1126P"AReplace this if-then-else statement by a single return statement.(†âú8¦ÃŞı1

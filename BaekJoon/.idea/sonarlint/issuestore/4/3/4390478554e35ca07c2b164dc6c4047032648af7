@@ -1,0 +1,9 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÇóëûÿÿÿÿ8µä ï„2
+n	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(øğÏÿıÿÿÿÿ8¶ä ï„2
+t
+java:S1450
+"RRemove the "map" field and declare it as a local variable in the relevant methods.(°‚¹äıÿÿÿÿ8­å ï„2
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(œû¿Ø8¯å ï„2
+L	java:S1060"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8µå ï„2

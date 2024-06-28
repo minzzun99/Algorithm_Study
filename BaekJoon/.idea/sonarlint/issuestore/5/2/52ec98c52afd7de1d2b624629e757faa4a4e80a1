@@ -1,0 +1,17 @@
+
+n	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(»Ä•ãúÿÿÿÿ8ÂÛ¡Ã„2
+i
+java:S3008
+"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µš…8 Ü¡Ã„2
+i
+java:S3008
+"LRename this field "Q" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µš…8 Ü¡Ã„2
+<
+java:S1659
+"Declare "Q" on a separate line.(µš…8¡Ü¡Ã„2
+m
+java:S1450
+"PRemove the "Q" field and declare it as a local variable in the relevant methods.(µš…8¡Ü¡Ã„2
+p
+java:S1602$"SRemove useless curly braces around statement and then remove useless return keyword(¯¦¶œ8©Ü¡Ã„2
+L	java:S106/"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8«Ü¡Ã„2

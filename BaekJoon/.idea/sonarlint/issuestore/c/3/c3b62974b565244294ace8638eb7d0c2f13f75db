@@ -1,0 +1,16 @@
+
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(àØ¹o8œ’¶Æú1
+e
+java:S2184/"CCast one of the operands of this subtraction operation to a "long".(µ©¬Áøÿÿÿÿ8äÁ·Æú1
+n
+java:S3008
+"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â³Ïöøÿÿÿÿ8¦’¶Æú1
+n
+java:S3008
+"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â³Ïöøÿÿÿÿ8§’¶Æú1
+A
+java:S1659
+"Declare "M" on a separate line.(â³Ïöøÿÿÿÿ8§’¶Æú1
+L	java:S106'"+Replace this use of System.out by a logger.(÷ºâÿÿÿÿÿÿ8¢Ü¿Æú1
+c
+java:S11263"AReplace this if-then-else statement by a single return statement.(Ó‚ðîÿÿÿÿÿ8áÆ¹Æú1

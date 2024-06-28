@@ -1,0 +1,20 @@
+
+y	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(÷™ë¶ùÿÿÿÿ8ŸŞîŠ2
+t	java:S127-"XRefactor the code in order to not assign to this loop counter from within the loop body.(îæ®†8ŸŞîŠ2
+y	java:S127<"XRefactor the code in order to not assign to this loop counter from within the loop body.(ŒÚ°×ùÿÿÿÿ8ŸŞîŠ2
+m	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ì£‹8ŸŞîŠ2
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÎÂĞ8ŸŞîŠ2
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı’ˆ8ŸŞîŠ2
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êàìşÿÿÿÿ8ŸŞîŠ2
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Şšê?8£¨ïŠ2
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(œû¿Ø8¹ßîŠ2
+R
+java:S1854
+"5Remove this useless assignment to local variable "N".(»ì£‹8¹ßîŠ2
+C
+java:S1481
+"&Remove this unused "N" local variable.(»ì£‹8ËßîŠ2
+L	java:S106D"+Replace this use of System.out by a logger.(¾ùôŒùÿÿÿÿ8ËßîŠ2
+L	java:S106H"+Replace this use of System.out by a logger.(»°¤Çøÿÿÿÿ8ËßîŠ2

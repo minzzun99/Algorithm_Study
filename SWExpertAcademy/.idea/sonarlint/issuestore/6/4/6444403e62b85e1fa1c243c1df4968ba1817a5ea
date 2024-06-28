@@ -1,0 +1,19 @@
+
+Q
+java:S1066B"/Merge this if statement with the enclosing one.(ÓÏ¾Öùÿÿÿÿ8ş«õ®ø1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÇóëûÿÿÿÿ8ş«õ®ø1
+i	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(çÉí 8ÿ«õ®ø1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“‘Â™8ÿ«õ®ø1
+i
+java:S3008
+"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ô†æ8İ¬õ®ø1
+>
+java:S1659
+"!Declare "min" on a separate line.(¡ô†æ8Ş¬õ®ø1
+`
+java:S1659">Declare "y" and all following declarations on a separate line.(›Ù†şÿÿÿÿ8â¬õ®ø1
+L	java:S106,"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8ş¬õ®ø1
+p
+java:S16020"SRemove useless curly braces around statement and then remove useless return keyword(µ¤³©8ÿ¬õ®ø1
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8­õ®ø1
