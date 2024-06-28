@@ -1851,3 +1851,5 @@ V
 &src/backtracking/Bj15666_N과M_12.java,d\f\dfd7a33599b2336bdb122d00671f12cdf0132c8e
 T
 $src/sort/Bj1251_단어나누기.java,b\8\b877b08e87b479fe2636788b073f6beda3c7bfdd
+X
+(src/math/Bj17211_좋은날싫은날.java,f\f\ff8447d2beaa2b0a2e80d8767e3be8cda053bce1
