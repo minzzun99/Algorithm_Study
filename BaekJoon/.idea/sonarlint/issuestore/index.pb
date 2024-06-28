@@ -1849,3 +1849,5 @@ U
 %src/bronze5/Bj24883_자동완성.java,f\d\fdfbd715841c41728b04622efa3aa62051efa34c
 V
 &src/backtracking/Bj15666_N과M_12.java,d\f\dfd7a33599b2336bdb122d00671f12cdf0132c8e
+T
+$src/sort/Bj1251_단어나누기.java,b\8\b877b08e87b479fe2636788b073f6beda3c7bfdd
