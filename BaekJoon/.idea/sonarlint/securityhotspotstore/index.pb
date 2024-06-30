@@ -3249,3 +3249,7 @@ R
 "src/bronze5/Bj27959_초코바.java,c\e\ce599de48abe2442f721f9b0334de0a8f561c7b6
 N
 src/bronze5/Bj26711_AaddB.java,4\8\48aee74df522c134e05d0854b39ce46fa78d8500
+a
+1src/bronze5/Bj28113_정보섬의대중교통.java,7\d\7dcb3228ee22c10cedb60ad132c4751228362179
+X
+(src/bronze5/Bj28701_세제곱의합.java,c\3\c37924c0411d6d1f44e4da9182787b262668cbb3
