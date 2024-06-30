@@ -3245,3 +3245,7 @@ M
 src/bronze5/Bj18301_Rats.java,3\9\398ee02399c27943bb796a3fdcded7899803e80a
 M
 src/bronze5/Bj10189_HOOK.java,1\1\1133e0e44f1c3bc2837292411c054bebc0ee9719
+R
+"src/bronze5/Bj27959_초코바.java,c\e\ce599de48abe2442f721f9b0334de0a8f561c7b6
+N
+src/bronze5/Bj26711_AaddB.java,4\8\48aee74df522c134e05d0854b39ce46fa78d8500
