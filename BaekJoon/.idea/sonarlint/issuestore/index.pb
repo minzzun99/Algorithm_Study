@@ -3259,3 +3259,5 @@ N
 src/math/Bj4030_포켓볼.java,b\9\b948ee7c5a4d5f9794586a90bedf794ad6f16cdd
 S
 #src/adhoc/Bj29757_트리긋기.java,a\a\aae7b3d2ca25a5dcf00b5f6ca7d8cec8db7cb934
+M
+src/bronze5/Bj8437_julka.java,7\c\7c38f1475d72e4dddb1caea76f96abe6cfbc98d9
