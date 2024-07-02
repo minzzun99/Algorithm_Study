@@ -3265,3 +3265,5 @@ M
 ,src/bronze5/Bj28235_코드마스터2023.java,d\0\d0d79b61c6e9d2e878d6a532bc55bf898bfa7b69
 S
 #src/graph/Bj11403_경로찾기.java,b\f\bfc78a584625321393fda2a57bbf136a3413b0a9
+_
+/src/graph/Bj1389_케빈베이컨의6단계.java,c\9\c9e58e8dce4901318836d4d93f3f63cf1a9eaa08
