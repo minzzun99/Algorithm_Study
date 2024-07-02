@@ -3253,3 +3253,7 @@ a
 1src/bronze5/Bj28113_정보섬의대중교통.java,7\d\7dcb3228ee22c10cedb60ad132c4751228362179
 X
 (src/bronze5/Bj28701_세제곱의합.java,c\3\c37924c0411d6d1f44e4da9182787b262668cbb3
+X
+(src/math/Bj16502_그녀를찾아서.java,a\f\af5a6c389e551cd92ed4b7279f6d7c1f9297fa54
+N
+src/math/Bj4030_포켓볼.java,b\9\b948ee7c5a4d5f9794586a90bedf794ad6f16cdd
