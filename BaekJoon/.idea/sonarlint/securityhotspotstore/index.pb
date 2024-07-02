@@ -3261,3 +3261,5 @@ S
 #src/adhoc/Bj29757_트리긋기.java,a\a\aae7b3d2ca25a5dcf00b5f6ca7d8cec8db7cb934
 M
 src/bronze5/Bj8437_julka.java,7\c\7c38f1475d72e4dddb1caea76f96abe6cfbc98d9
+\
+,src/bronze5/Bj28235_코드마스터2023.java,d\0\d0d79b61c6e9d2e878d6a532bc55bf898bfa7b69
