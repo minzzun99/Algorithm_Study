@@ -3257,3 +3257,5 @@ X
 (src/math/Bj16502_그녀를찾아서.java,a\f\af5a6c389e551cd92ed4b7279f6d7c1f9297fa54
 N
 src/math/Bj4030_포켓볼.java,b\9\b948ee7c5a4d5f9794586a90bedf794ad6f16cdd
+S
+#src/adhoc/Bj29757_트리긋기.java,a\a\aae7b3d2ca25a5dcf00b5f6ca7d8cec8db7cb934
