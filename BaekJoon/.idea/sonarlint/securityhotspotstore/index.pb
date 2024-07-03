@@ -3271,3 +3271,5 @@ U
 %src/bronze5/Bj30007_라면공식.java,c\2\c25d0638603b548d00561c3dc8ffaee86263cf69
 j
 :src/bronze5/Bj28691_정보보호학부동아리소개.java,5\5\55ba1638f647f10c6d286e79eb7a406f31f7934e
+Q
+!src/math/Bj5576_콘테스트.java,5\4\5460d6c6113dc9e367e1fa2268600a84b64a8a06
