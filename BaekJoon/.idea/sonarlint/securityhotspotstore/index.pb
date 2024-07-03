@@ -3269,3 +3269,5 @@ _
 /src/graph/Bj1389_케빈베이컨의6단계.java,c\9\c9e58e8dce4901318836d4d93f3f63cf1a9eaa08
 U
 %src/bronze5/Bj30007_라면공식.java,c\2\c25d0638603b548d00561c3dc8ffaee86263cf69
+j
+:src/bronze5/Bj28691_정보보호학부동아리소개.java,5\5\55ba1638f647f10c6d286e79eb7a406f31f7934e
