@@ -3281,3 +3281,5 @@ d
 4src/bronze5/Bj30030_스위트콘가격구하기.java,e\6\e658bc05430a819e8bab0086e3cd349bea5347da
 \
 ,src/implementation/Bj16396_선그리기.java,a\2\a2fb877b00456fa2a4a46aefe7f8f79bb8cdb1c5
+[
++src/bronze5/Bj30087_진흥원세미나.java,c\c\ccc5f8fdd294b725a9ef2d61fff950e9c036accf
