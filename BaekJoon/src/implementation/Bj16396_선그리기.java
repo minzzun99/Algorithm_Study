@@ -26,6 +26,7 @@ public class Bj16396_선그리기 {
                 count++;
             }
         }
+
         System.out.println(count);
     }
 }
