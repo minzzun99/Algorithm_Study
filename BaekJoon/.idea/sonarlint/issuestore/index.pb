@@ -3283,3 +3283,5 @@ d
 ,src/implementation/Bj16396_선그리기.java,a\2\a2fb877b00456fa2a4a46aefe7f8f79bb8cdb1c5
 [
 +src/bronze5/Bj30087_진흥원세미나.java,c\c\ccc5f8fdd294b725a9ef2d61fff950e9c036accf
+V
+&src/bronze5/Bj27434_팩토리얼3.java,3\8\38810b34899bf6112d6e1977994e59bc3d3de093
