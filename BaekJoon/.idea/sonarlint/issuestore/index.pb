@@ -3285,3 +3285,5 @@ d
 +src/bronze5/Bj30087_진흥원세미나.java,c\c\ccc5f8fdd294b725a9ef2d61fff950e9c036accf
 V
 &src/bronze5/Bj27434_팩토리얼3.java,3\8\38810b34899bf6112d6e1977994e59bc3d3de093
+Y
+)src/bronze5/Bj29731_2023년밈투표.java,a\6\a661f79978976a6017ce0ef16a9a5434ae0988be
