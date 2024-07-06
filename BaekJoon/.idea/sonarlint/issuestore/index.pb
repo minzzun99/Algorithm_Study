@@ -3294,8 +3294,8 @@ N
 Z
 *src/implementation/Bj31403_ABC_String.java,8\1\81cf0870501fbab300a596bc9453ae3d00d5b46a
 c
-3src/graph/Bj1389_케빈베이컨의6단계_DFS.java,c\d\cda0f0fe044a633da3e8c2a518c380a46a7ed0a0
-c
 3src/graph/Bj1389_케빈베이컨의6단계_BFS.java,d\7\d7d9c4779197d8ebecef492efa0bc63c1e0aaac1
 e
 5src/graph/Bj21736_헌내기는친구가필요해.java,8\0\80e39b917bc0da35cfe67dfb5b085fd56315c295
+[
++src/implementation/Bj1157_단어공부.java,5\4\5441947be3daae588323d535325e476dea566488
