@@ -3291,3 +3291,5 @@ R
 "src/math/Bj30802_웰컴키트.java,0\3\039bc04312f96f28f76a018a13016dc1a4339f68
 N
 src/math/Bj28702_FizzBuzz.java,9\9\997e8a93415fb0d7cf947a12c1d25b369a72fddc
+Z
+*src/implementation/Bj31403_ABC_String.java,8\1\81cf0870501fbab300a596bc9453ae3d00d5b46a
