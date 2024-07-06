@@ -3289,3 +3289,5 @@ Y
 )src/bronze5/Bj29731_2023년밈투표.java,a\6\a661f79978976a6017ce0ef16a9a5434ae0988be
 R
 "src/math/Bj30802_웰컴키트.java,0\3\039bc04312f96f28f76a018a13016dc1a4339f68
+N
+src/math/Bj28702_FizzBuzz.java,9\9\997e8a93415fb0d7cf947a12c1d25b369a72fddc
