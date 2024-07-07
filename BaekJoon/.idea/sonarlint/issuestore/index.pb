@@ -3299,3 +3299,5 @@ e
 5src/graph/Bj21736_헌내기는친구가필요해.java,8\0\80e39b917bc0da35cfe67dfb5b085fd56315c295
 [
 +src/implementation/Bj1157_단어공부.java,5\4\5441947be3daae588323d535325e476dea566488
+\
+,src/adhoc/Bj27648_증가배열만들기.java,a\f\aff8a5ee783fa8244f95d1956e02766a539f7e31
