@@ -3301,3 +3301,5 @@ e
 +src/implementation/Bj1157_단어공부.java,5\4\5441947be3daae588323d535325e476dea566488
 \
 ,src/adhoc/Bj27648_증가배열만들기.java,a\f\aff8a5ee783fa8244f95d1956e02766a539f7e31
+N
+src/bronze5/Bj26766_Serca.java,9\e\9ec25f990255b8ac28ea5c3aed162ff6b53bb262
