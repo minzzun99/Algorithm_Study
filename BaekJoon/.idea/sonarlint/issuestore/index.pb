@@ -3303,3 +3303,5 @@ e
 ,src/adhoc/Bj27648_증가배열만들기.java,a\f\aff8a5ee783fa8244f95d1956e02766a539f7e31
 N
 src/bronze5/Bj26766_Serca.java,9\e\9ec25f990255b8ac28ea5c3aed162ff6b53bb262
+Z
+*src/greedy/Bj28324_스케이트연습.java,7\7\7794842ac9767a169e5fda883351add188355b06
