@@ -3317,3 +3317,7 @@ Z
 *src/prefixsum/Bj12841_정보대등산.java,0\8\08dfea4c2c80ba9bddae49a8e0633650f0ea7241
 j
 :src/prefixsum/Bj12841_정보대등산_누적합사용.java,d\4\d47758ead9ec090bb4d4d93a2395e955190fcfcc
+P
+ src/prefixsum/Bj29156_탭UI.java,2\6\26c361385c8508d69e0292c31850f65c4e6511ce
+`
+0src/prefixsum/Bj31001_주식시뮬레이션.java,0\7\076bb0c448bae6a58b9bd0f0c18c2ba09083b1c5
