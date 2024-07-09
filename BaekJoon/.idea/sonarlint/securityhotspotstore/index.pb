@@ -3313,3 +3313,7 @@ U
 %src/bronze5/Bj21300_BottleReturn.java,c\5\c549dd75b954a8a620d9fc9b5bf589df3dd7a93b
 `
 0src/sort/Bj2204_도비의난독증테스트.java,7\7\77c3269e2a79b11b57a75ec085a3ca86b5dbef66
+Z
+*src/prefixsum/Bj12841_정보대등산.java,0\8\08dfea4c2c80ba9bddae49a8e0633650f0ea7241
+j
+:src/prefixsum/Bj12841_정보대등산_누적합사용.java,d\4\d47758ead9ec090bb4d4d93a2395e955190fcfcc
