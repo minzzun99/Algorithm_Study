@@ -3317,7 +3317,7 @@ Z
 *src/prefixsum/Bj12841_정보대등산.java,0\8\08dfea4c2c80ba9bddae49a8e0633650f0ea7241
 j
 :src/prefixsum/Bj12841_정보대등산_누적합사용.java,d\4\d47758ead9ec090bb4d4d93a2395e955190fcfcc
-`
-0src/prefixsum/Bj31001_주식시뮬레이션.java,0\7\076bb0c448bae6a58b9bd0f0c18c2ba09083b1c5
 Z
 *src/map/Bj31001_주식시뮬레이션.java,0\b\0b9007dc9f227c4151f68606f5f6d1334531505b
+M
+src/math/Bj20233_Bicycle.java,f\b\fb08ccefe34ebfc862649f55570899b1c8851742
