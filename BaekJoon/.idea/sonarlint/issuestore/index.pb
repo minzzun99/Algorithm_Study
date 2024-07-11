@@ -3335,3 +3335,7 @@ Z
 .src/prefixsum/Bj11660_구간합구하기5.java,4\3\43faad4972be8c6a64bd191c5e8f132cec42c005
 `
 0src/prefixsum/Bj11660_구간합구하기5_2.java,7\f\7f1d0c1a18735a5efcc468d8cc379b08119da387
+V
+&src/bronze5/Bj8545_Zadaniepróbne.java,8\f\8f9cb977aa9cff50c84b9de4775a1fd651b79989
+G
+src/bronze5/Bj8545.java,f\1\f10f0513c0439b5bc7c7b373727cf82568b839ef
