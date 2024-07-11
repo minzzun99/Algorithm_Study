@@ -3323,3 +3323,5 @@ M
 src/math/Bj20233_Bicycle.java,f\b\fb08ccefe34ebfc862649f55570899b1c8851742
 e
 5src/dp/Bj14495_피보나치비스무리한수열.java,0\3\03b6f1103e4e5ba1b8ed9588c07538d1790acb45
+Z
+*src/string/Bj30089_새로운문자열.java,7\b\7b68d4e9236173b9126c8e4b57c2ddcd235e0ea8
