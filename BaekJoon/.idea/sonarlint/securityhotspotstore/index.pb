@@ -3337,3 +3337,5 @@ G
 src/bronze5/Bj8545.java,f\1\f10f0513c0439b5bc7c7b373727cf82568b839ef
 e
 5src/bruteforce/Bj23301_스터디시간정하기2.java,3\e\3e969f55da9a58fbe3bc81d132a0f37ea6dcea4e
+g
+7src/prefixsum/Bj16139_인간_컴퓨터상호작용.java,5\c\5cdf28453f6dd4fe8db234a018814123058f84b5
