@@ -3339,3 +3339,7 @@ e
 5src/bruteforce/Bj23301_스터디시간정하기2.java,3\e\3e969f55da9a58fbe3bc81d132a0f37ea6dcea4e
 g
 7src/prefixsum/Bj16139_인간_컴퓨터상호작용.java,5\c\5cdf28453f6dd4fe8db234a018814123058f84b5
+G
+src/bronze5/Bj8871.java,c\d\cd48b71ef7df3a3c51e974f68d436fd89ad58b38
+M
+src/bronze5/Bj15000_CAPS.java,7\5\75240c3b34c7c387c554cf0e0a3c0e34764b2fa2
