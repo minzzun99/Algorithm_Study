@@ -3349,3 +3349,5 @@ I
 src/math/Bj26084_DPS.java,0\8\0839b46008a01d1f1c385f1e4b96bca3e80fc68f
 X
 (src/math/Bj1747_소수_팰린드롬.java,b\e\be2a0f4616d592f65c724023a7b14b6de015c229
+R
+"src/dp/Bj2156_포도주시식.java,2\5\25a5ad16a502cee10a68ce563ecc4a90fa0bdc8e
