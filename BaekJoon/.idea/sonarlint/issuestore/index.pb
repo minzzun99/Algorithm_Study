@@ -3345,7 +3345,7 @@ M
 src/bronze5/Bj15000_CAPS.java,7\5\75240c3b34c7c387c554cf0e0a3c0e34764b2fa2
 S
 #src/bronze5/Bj21598_SciComLove.java,d\0\d06b2c826117eb5ebadde08691d7be795da8baef
-E
-src/math/Bj26084.java,b\d\bda84581fad9840148293b9785c2d6d2646b3cdf
 I
 src/math/Bj26084_DPS.java,0\8\0839b46008a01d1f1c385f1e4b96bca3e80fc68f
+X
+(src/math/Bj1747_소수_팰린드롬.java,b\e\be2a0f4616d592f65c724023a7b14b6de015c229
