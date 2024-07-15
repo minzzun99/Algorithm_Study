@@ -8,10 +8,9 @@ import java.util.*;
 public class Bj1260_2 {
     private static ArrayList<Integer>[] adjList;
     private static boolean[] visitedDFS;
-    private static boolean[] visitedBFS;
     private static ArrayList<Integer> answerDFS;
     private static ArrayList<Integer> answerBFS;
-
+    private static boolean[] visitedBFS;
     private static void dfs(int start) {
         visitedDFS[start] = true;
         answerDFS.add(start);
@@ -21,10 +20,12 @@ public class Bj1260_2 {
             }
         }
     }
+
     private static void bfs(int start) {
         Deque<Integer> deque = new ArrayDeque<>();
         deque.add(start);
         visitedBFS[start] = true;
+
         while (!deque.isEmpty()) {
             int now = deque.poll();
             answerBFS.add(now);
@@ -45,8 +46,8 @@ public class Bj1260_2 {
         int v = Integer.parseInt(st.nextToken());       // start 노드
 
         adjList = new ArrayList[n + 1];
-        visitedDFS = new boolean[n + 1];
         visitedBFS = new boolean[n + 1];
+        visitedDFS = new boolean[n + 1];
         answerBFS = new ArrayList<>();
         answerDFS = new ArrayList<>();
 
