@@ -3351,3 +3351,5 @@ X
 (src/math/Bj1747_소수_팰린드롬.java,b\e\be2a0f4616d592f65c724023a7b14b6de015c229
 R
 "src/dp/Bj2156_포도주시식.java,2\5\25a5ad16a502cee10a68ce563ecc4a90fa0bdc8e
+W
+'src/math/Bj1085_직사각형탈출.java,a\c\ac89f1a5060baf82a8ae8ad1ca02afeb5dcfaf6a
