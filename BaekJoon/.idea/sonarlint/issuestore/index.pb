@@ -3353,3 +3353,7 @@ R
 "src/dp/Bj2156_포도주시식.java,2\5\25a5ad16a502cee10a68ce563ecc4a90fa0bdc8e
 W
 'src/math/Bj1085_직사각형탈출.java,a\c\ac89f1a5060baf82a8ae8ad1ca02afeb5dcfaf6a
+L
+src/string/Bj5525_IOIOI.java,b\5\b51476b7393684173448e4fc870ec28413dd6ac9
+R
+"src/string/Bj5525_IOIOI_50점.java,3\5\35af8c927a86e74904e6d36befd47e6b6e29c22f
