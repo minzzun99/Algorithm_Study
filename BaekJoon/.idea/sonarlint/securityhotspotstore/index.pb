@@ -3357,3 +3357,5 @@ L
 src/string/Bj5525_IOIOI.java,b\5\b51476b7393684173448e4fc870ec28413dd6ac9
 R
 "src/string/Bj5525_IOIOI_50점.java,3\5\35af8c927a86e74904e6d36befd47e6b6e29c22f
+P
+ src/string/Bj5525_IOIOI_KMP.java,3\d\3dc58c5be6ba37a3deda00ce8a1f9ca3150370a6
