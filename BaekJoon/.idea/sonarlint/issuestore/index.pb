@@ -3359,3 +3359,5 @@ R
 "src/string/Bj5525_IOIOI_50점.java,3\5\35af8c927a86e74904e6d36befd47e6b6e29c22f
 P
  src/string/Bj5525_IOIOI_KMP.java,3\d\3dc58c5be6ba37a3deda00ce8a1f9ca3150370a6
+J
+src/kmp/Bj1786_찾기.java,e\e\eef084f0f96831bf4cbd15d634994204a30c8870
