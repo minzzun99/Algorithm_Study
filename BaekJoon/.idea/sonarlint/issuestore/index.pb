@@ -3361,3 +3361,7 @@ P
  src/string/Bj5525_IOIOI_KMP.java,3\d\3dc58c5be6ba37a3deda00ce8a1f9ca3150370a6
 J
 src/kmp/Bj1786_찾기.java,e\e\eef084f0f96831bf4cbd15d634994204a30c8870
+Q
+!src/math/Bj1009_분산처리.java,a\a\aa393ec533bed0c6faafbf106972a0d216254df1
+^
+.src/implementation/Bj10570_FavoriteNumber.java,c\e\ce4e0c749a455c69dfcf85b37471098b38ef2c7d
