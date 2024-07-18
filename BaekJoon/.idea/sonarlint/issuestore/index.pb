@@ -3365,3 +3365,5 @@ Q
 !src/math/Bj1009_분산처리.java,a\a\aa393ec533bed0c6faafbf106972a0d216254df1
 ^
 .src/implementation/Bj10570_FavoriteNumber.java,c\e\ce4e0c749a455c69dfcf85b37471098b38ef2c7d
+O
+src/bronze5/Bj24086_Height.java,f\8\f89c12f58b3c0fb44fd92ef43663b9519888db14
