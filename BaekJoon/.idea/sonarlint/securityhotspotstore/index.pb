@@ -3373,3 +3373,5 @@ i
 9src/implementation/Bj24263_알고리즘수행시간2.java,5\c\5c2a6a0e8b3f871650a9c2296a95015563cb9b4b
 i
 9src/implementation/Bj24264_알고리즘수행시간3.java,9\f\9f567f2cfb22c0caf78730dd348ed453482c7505
+[
++src/implementation/Bj2799_블라인드.java,a\8\a875392dcb50ef08d90c6f684ed096ba9d1176b0
