@@ -3377,3 +3377,5 @@ i
 +src/implementation/Bj2799_블라인드.java,a\8\a875392dcb50ef08d90c6f684ed096ba9d1176b0
 X
 (src/bruteforce/Bj16951_블록놀이.java,2\a\2a0037124df093fe573a685f271f81f68eb561d7
+Q
+!src/math/Bj5543_상근날드.java,4\6\46a62bc14c6966f93ce2e6e6b222d8ff4873caa6
