@@ -3383,3 +3383,5 @@ i
 9src/implementation/Bj24265_알고리즘수행시간4.java,2\2\2223974d1c4d15e3e53e1af9ad913db446c75ae4
 i
 9src/implementation/Bj24266_알고리즘수행시간5.java,4\0\4090c67f696e92e7b4383734736687b6f9567ea3
+i
+9src/implementation/Bj24267_알고리즘수행시간6.java,e\e\ee6fe9d986f4a9bbbece061ba2d05965be5a601c
