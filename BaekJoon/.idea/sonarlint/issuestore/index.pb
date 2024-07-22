@@ -3397,3 +3397,5 @@ K
 src/sort/Bj1940_주몽.java,e\d\eda10cda9d48cf13683aa9c8eafc9afb07aac238
 V
 &src/string/Bj1264_모음의개수.java,2\2\2278c877e0e5e3bce22ca872f1a223b19c58d736
+W
+'src/bruteforce/Bj1543_문서검색.java,2\1\21cbd0290e2d378675a58678c3298981e9583de2
