@@ -3395,3 +3395,5 @@ U
 %src/string/Bj1212_8진수2진수.java,8\d\8d5c0b6c5f207266381c35c37279b4c37f4534ab
 K
 src/sort/Bj5635_생일.java,2\3\2395cd3493b3c50ef01aaa7c0c2618e10a15715c
+K
+src/sort/Bj1940_주몽.java,e\d\eda10cda9d48cf13683aa9c8eafc9afb07aac238
