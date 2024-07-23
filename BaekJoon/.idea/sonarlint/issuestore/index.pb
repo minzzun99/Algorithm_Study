@@ -3403,3 +3403,5 @@ Y
 )src/greedy/Bj9237_이장님의초대.java,3\f\3f61b04a21f38192e6446040bc59b23ba6228f3d
 V
 &src/greedy/Bj9237_이장님초대.java,1\a\1a505f59e7e10c92143c2a398695706f74da2f8b
+_
+/src/greedy/Bj20413_MVP다이아몬드_EASY.java,1\4\14b54d9ada2bf3f815aea0f1a21ddea93cecfa83
