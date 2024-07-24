@@ -3405,3 +3405,5 @@ _
 /src/greedy/Bj20413_MVP다이아몬드_EASY.java,1\4\14b54d9ada2bf3f815aea0f1a21ddea93cecfa83
 U
 %src/string/Bj12518_CentauriPrime.java,6\2\626ea44fb83575807a718d53e434f6dd72b3f95d
+T
+$src/sort/Bj1205_등수구하기.java,c\7\c77835f963aecc06ac697d2f4788a31616dc1140
