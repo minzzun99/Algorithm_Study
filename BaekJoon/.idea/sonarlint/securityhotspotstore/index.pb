@@ -3407,3 +3407,5 @@ U
 %src/string/Bj12518_CentauriPrime.java,6\2\626ea44fb83575807a718d53e434f6dd72b3f95d
 T
 $src/sort/Bj1205_등수구하기.java,c\7\c77835f963aecc06ac697d2f4788a31616dc1140
+Q
+!src/bronze5/Bj24078_Reminder.java,9\c\9cc84445d63836e5cc553607289139c5da861059
