@@ -3399,9 +3399,9 @@ V
 &src/string/Bj1264_모음의개수.java,2\2\2278c877e0e5e3bce22ca872f1a223b19c58d736
 W
 'src/bruteforce/Bj1543_문서검색.java,2\1\21cbd0290e2d378675a58678c3298981e9583de2
-Y
-)src/greedy/Bj9237_이장님의초대.java,3\f\3f61b04a21f38192e6446040bc59b23ba6228f3d
 V
 &src/greedy/Bj9237_이장님초대.java,1\a\1a505f59e7e10c92143c2a398695706f74da2f8b
 _
 /src/greedy/Bj20413_MVP다이아몬드_EASY.java,1\4\14b54d9ada2bf3f815aea0f1a21ddea93cecfa83
+U
+%src/string/Bj12518_CentauriPrime.java,6\2\626ea44fb83575807a718d53e434f6dd72b3f95d
