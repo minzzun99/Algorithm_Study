@@ -3413,3 +3413,5 @@ Y
 )src/sort/Bj11557_YangjojangofTheYear.java,0\4\04bb05b64178fd742ff5393e21ad5bc9e167446e
 T
 $src/math/Bj2858_기숙사바닥.java,7\1\712620b85f4e33a3a0ed0aab48d0d6295a3cc64e
+X
+(src/bruteforce/Bj14584_암호해독.java,1\a\1af09ceba4f6652f5b9faac614072c8fbfd5dd36
