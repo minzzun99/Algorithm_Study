@@ -3417,3 +3417,9 @@ X
 (src/bruteforce/Bj14584_암호해독.java,1\a\1af09ceba4f6652f5b9faac614072c8fbfd5dd36
 J
 src/kmp/Bj1305_광고.java,f\a\fac30cc79e4d9bfa09a4b56642843fa87a8e6337
+]
+-src/kmp/Bj16916_부분문자열_contains.java,9\5\95486368306998516a3088b689f03a2f478d048e
+j
+:src/kmp/Bj16916_부분문자열_contains_시간초과.java,c\9\c961990b8c8232dcaa36bcb1e6aa5e3e0e3325cb
+X
+(src/kmp/Bj16916_부분문자열_KMP.java,5\1\519db94a298b882a264da8179806f24611d80f8c
