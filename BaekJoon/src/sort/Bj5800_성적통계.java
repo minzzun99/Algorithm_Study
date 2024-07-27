@@ -28,7 +28,7 @@ public class Bj5800_성적통계 {
             for (int j = 0; j < N - 1; j++) {
                 gap = Math.max(gap, student[j + 1] - student[j]);
             }
-            sb.append("Class").append(i).append('\n');
+            sb.append("Class ").append(i).append('\n');
             sb.append("Max ").append(max).append(", ")
                     .append("Min ").append(min).append(", ")
                     .append("Largest gap ").append(gap).append('\n');
