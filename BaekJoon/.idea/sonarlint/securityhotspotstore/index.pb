@@ -3423,3 +3423,5 @@ X
 (src/kmp/Bj16916_부분문자열_KMP.java,5\1\519db94a298b882a264da8179806f24611d80f8c
 Q
 !src/sort/Bj5800_성적통계.java,f\c\fc715bffbabd916147196a47bb2fcaae659cd233
+L
+src/graph/Bj1926_그림.java,3\3\336f71cb6d3e8bce80536d611b4f4a05af09135d
