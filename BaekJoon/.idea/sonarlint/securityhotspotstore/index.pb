@@ -3425,3 +3425,7 @@ Q
 !src/sort/Bj5800_성적통계.java,f\c\fc715bffbabd916147196a47bb2fcaae659cd233
 L
 src/graph/Bj1926_그림.java,3\3\336f71cb6d3e8bce80536d611b4f4a05af09135d
+V
+&src/implementation/Bj31747_점호.java,5\0\50f1a0cc488c0c717fa32aec37d38ea452b4a221
+I
+src/GenerateTestCase.java,0\e\0e2594a3471dffb54023d4305d5a5202e4d5a769
