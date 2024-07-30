@@ -3435,3 +3435,5 @@ Q
 !src/math/Bj5532_방학숙제.java,2\c\2c5f52e21f3838e77ee9b70a7414129b0a27e161
 Z
 *src/math/Bj5717_상근이의친구들.java,c\c\cc10da991d9256fd8f016db5c8c7f40b09527f02
+N
+src/math/Bj9295_주사위.java,a\2\a2fdecd78f61d143c88d9cd1fa37fc824f8d73f0
