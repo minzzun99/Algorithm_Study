@@ -3431,3 +3431,5 @@ O
 src/math/Bj16464_가주아.java,8\2\824c3ece0bce5e5ae8af0b9bb9604c69502f75a9
 U
 %src/graph/Bj5014_스타트링크.java,2\0\209c3925d930c2735dafd6700986176fd0866bc8
+Q
+!src/math/Bj5532_방학숙제.java,2\c\2c5f52e21f3838e77ee9b70a7414129b0a27e161
