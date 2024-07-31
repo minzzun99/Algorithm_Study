@@ -3441,3 +3441,5 @@ N
 +src/implementation/Bj2511_카드놀이.java,7\3\7388677b9f848b50880483f79e0743f829958591
 O
 src/bronze5/Bj26082_WARBOY.java,e\f\efdca123da251a02c272de6f099e85d3d177c15b
+\
+,src/graph/Bj16928_뱀과사다리게임.java,9\c\9c9f564e23a03c5030745b3ecd180891c1bbbe89
