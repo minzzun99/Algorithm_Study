@@ -3439,3 +3439,5 @@ N
 src/math/Bj9295_주사위.java,a\2\a2fdecd78f61d143c88d9cd1fa37fc824f8d73f0
 [
 +src/implementation/Bj2511_카드놀이.java,7\3\7388677b9f848b50880483f79e0743f829958591
+O
+src/bronze5/Bj26082_WARBOY.java,e\f\efdca123da251a02c272de6f099e85d3d177c15b
