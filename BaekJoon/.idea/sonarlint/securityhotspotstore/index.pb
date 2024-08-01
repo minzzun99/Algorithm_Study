@@ -3445,3 +3445,5 @@ O
 ,src/graph/Bj16928_뱀과사다리게임.java,9\c\9c9f564e23a03c5030745b3ecd180891c1bbbe89
 J
 src/graph/Bj9019_DSLR.java,c\8\c874c999977efdbec6c853d5d8098da11764bb3b
+R
+"src/graph/Bj2468_안전영역.java,5\1\51b7b3f791eeb658fab42780c411a274e89afd38
