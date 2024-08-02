@@ -3449,3 +3449,5 @@ R
 "src/graph/Bj2468_안전영역.java,5\1\51b7b3f791eeb658fab42780c411a274e89afd38
 R
 "src/graph/Bj4963_섬의개수.java,0\e\0e20e324afe0ba36c8f18b0805c387a8533437ed
+[
++src/implementation/Bj5046_전대프연.java,c\d\cdf33c08655ec00e34ed47736f8b743b7f0e49a5
