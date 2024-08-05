@@ -3463,3 +3463,5 @@ Q
 !src/math/Bj2090_조화평균.java,2\d\2ddec8a2ceb62fe4eed95599f09021ee3c37dced
 R
 "src/graph/Bj2644_촌수계산.java,b\6\b65b0e2b642fcf25966914a2bff28c500e5f2426
+i
+9src/greedy/Bj30406_산타춘배의선물나눠주기.java,4\e\4e2c893cee0f92d45dcacd2578d9bfa356fd2c3c
