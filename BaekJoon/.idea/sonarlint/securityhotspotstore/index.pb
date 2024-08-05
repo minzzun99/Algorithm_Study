@@ -3465,3 +3465,5 @@ R
 "src/graph/Bj2644_촌수계산.java,b\6\b65b0e2b642fcf25966914a2bff28c500e5f2426
 i
 9src/greedy/Bj30406_산타춘배의선물나눠주기.java,4\e\4e2c893cee0f92d45dcacd2578d9bfa356fd2c3c
+b
+2src/datastructure/Bj17287_TheDeeper_TheBetter.java,e\c\ecec09e5b32f340a71a5033d5bc656d5317f871f
