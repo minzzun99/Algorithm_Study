@@ -3455,9 +3455,9 @@ N
 src/math/Bj22193_Multiply.java,2\6\264cc5e2e801a9cfb1fa0a2da488d39b13264869
 S
 #src/greedy/Bj11508_2쁠1세일.java,9\d\9d12e61fbe72d9cbe228550f804b589f380b2489
-F
-src/string/Bj2902.java,f\c\fc3bc1552e80d3b5aa291fd92934ab24680c32ea
 Y
 )src/string/Bj2902_KMP는왜KMP일까.java,9\6\96e63fd3bb2116281393c534bc9cbad76cbf159f
 c
 3src/sort/Bj2535_아시아정보올림피아드.java,9\7\973ec650b7532bf97ac2ee4d942c731de29ce4dc
+Q
+!src/math/Bj2090_조화평균.java,2\d\2ddec8a2ceb62fe4eed95599f09021ee3c37dced
