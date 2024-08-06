@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class Bj2644_촌수계산 {
+public class Bj2644_촌수계산_BFS {
     private static int N;
     private static ArrayList<Integer>[] adjList;
     private static int[] visited;
