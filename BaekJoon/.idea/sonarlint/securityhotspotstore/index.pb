@@ -3473,3 +3473,5 @@ V
 &src/graph/Bj2644_촌수계산_BFS.java,d\e\de423c67802e287153e169fe28c07f6d77f94233
 \
 ,src/graph/Bj1743_음식물피하기_DFS.java,1\4\14561b29253512f93fe3d27b6b0ac64bfa007570
+\
+,src/graph/Bj1743_음식물피하기_BFS.java,e\f\ef4472a6ed7d7e43798d38f0d3e9d5ffa20ffb62
