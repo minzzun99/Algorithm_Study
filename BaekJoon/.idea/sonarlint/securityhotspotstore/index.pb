@@ -3481,3 +3481,5 @@ O
 src/graph/Bj1987_알파벳.java,4\e\4e9c257f44c2b58f57b4102b2ffedb3ecf256c1d
 ^
 .src/graph/Bj2206_벽부수고이동하기.java,e\1\e1a2b375f623678dcb345afab5d396924f8c25f2
+O
+src/graph/Bj2589_보물섬.java,3\8\385b1f17842b80e48edfec0e6fff1992ca592195
