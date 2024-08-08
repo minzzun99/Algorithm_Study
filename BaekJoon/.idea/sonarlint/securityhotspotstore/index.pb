@@ -3483,3 +3483,5 @@ O
 .src/graph/Bj2206_벽부수고이동하기.java,e\1\e1a2b375f623678dcb345afab5d396924f8c25f2
 O
 src/graph/Bj2589_보물섬.java,3\8\385b1f17842b80e48edfec0e6fff1992ca592195
+W
+'src/bruteforce/Bj17626_FourSquares.java,e\f\ef9967e83fd2c3e0aa2cd3d172f324e9b3f6a5d0
