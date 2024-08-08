@@ -1,0 +1,9 @@
+
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(äŒ‡Àùÿÿÿÿ8¥¶ôŒŠ2
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÇóëûÿÿÿÿ8³³ğŒŠ2
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(âŸÁ8µ³ğŒŠ2
+8
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ8Ë³ğŒŠ2
+L	java:S106"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8Ş¶ôŒŠ2
+^
+java:S1126""AReplace this if-then-else statement by a single return statement.(Ëª¡8Ï³ğŒŠ2

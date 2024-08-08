@@ -1,0 +1,15 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÇóëûÿÿÿÿ8™åé†2
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ì£‹8šåé†2
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¹¢À8›åé†2
+g
+java:S2184("ECast one of the operands of this subtraction operation to a "double".(ÎÑ‹¡ÿÿÿÿÿ8›åé†2
+g
+java:S2184("ECast one of the operands of this subtraction operation to a "double".(ÎÑ‹¡ÿÿÿÿÿ8›åé†2
+b
+java:S2184)"ECast one of the operands of this subtraction operation to a "double".(‰Í½õ8›åé†2
+b
+java:S2184)"ECast one of the operands of this subtraction operation to a "double".(‰Í½õ8›åé†2
+e
+java:S1659	"CDeclare "startY" and all following declarations on a separate line.(Éê–­ıÿÿÿÿ8µåé†2
+L	java:S106$"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8»åé†2

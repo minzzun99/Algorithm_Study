@@ -1,0 +1,22 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(µŒ€™øÿÿÿÿ8¦Øşß2
+n
+java:S3008"LRename this field "F" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Œ®‰ûÿÿÿÿ8¿Øşß2
+n
+java:S3008"LRename this field "S" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Œ®‰ûÿÿÿÿ8¿Øşß2
+n
+java:S3008"LRename this field "G" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Œ®‰ûÿÿÿÿ8¿Øşß2
+n
+java:S3008"LRename this field "U" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Œ®‰ûÿÿÿÿ8¿Øşß2
+n
+java:S3008"LRename this field "D" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Œ®‰ûÿÿÿÿ8¿Øşß2
+`
+java:S1659">Declare "S" and all following declarations on a separate line.(°Œ®‰ûÿÿÿÿ8¿Øşß2
+r
+java:S1450"PRemove the "D" field and declare it as a local variable in the relevant methods.(°Œ®‰ûÿÿÿÿ8ÀØşß2
+r
+java:S1450"PRemove the "G" field and declare it as a local variable in the relevant methods.(°Œ®‰ûÿÿÿÿ8×Ğ€à2
+r
+java:S1450"PRemove the "U" field and declare it as a local variable in the relevant methods.(°Œ®‰ûÿÿÿÿ8×Ğ€à2
+L	java:S106 "+Replace this use of System.out by a logger.(‰Êù»ÿÿÿÿÿ8ÅØşß2
+L	java:S106""+Replace this use of System.out by a logger.(³ğ¸ûÿÿÿÿ8ÅØşß2

@@ -1,0 +1,17 @@
+
+n	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñÀ˜²øÿÿÿÿ8À¥‹¶ˆ2
+n
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â³Ïöøÿÿÿÿ8»¦‹¶ˆ2
+n
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â³Ïöøÿÿÿÿ8»¦‹¶ˆ2
+A
+java:S1659"Declare "M" on a separate line.(â³Ïöøÿÿÿÿ8½¦‹¶ˆ2
+x
+java:S1450"VRemove the "visited" field and declare it as a local variable in the relevant methods.(ùíôþüÿÿÿÿ8¾¦‹¶ˆ2
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(œû¿Ø8Â¦‹¶ˆ2
+G	java:S106F"+Replace this use of System.out by a logger.(íÛ‚·8È¦‹¶ˆ2
+L	java:S106H"+Replace this use of System.out by a logger.(Ž³ð¸ûÿÿÿÿ8È¦‹¶ˆ2
+]
+java:S1126M"AReplace this if-then-else statement by a single return statement.(€õé8É¦‹¶ˆ2

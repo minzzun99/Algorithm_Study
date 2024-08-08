@@ -1,0 +1,11 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(±±ç¦8Ãú¶‡“2
+[
+java:S1659">Declare "m" and all following declarations on a separate line.(†×ı8¤û¶‡“2
+p
+java:S1450"SRemove the "dist" field and declare it as a local variable in the relevant methods.(É¬ö¯8¤û¶‡“2
+m
+java:S1450"PRemove the "k" field and declare it as a local variable in the relevant methods.(†×ı8¥û¶‡“2
+s
+java:S1450"VRemove the "visited" field and declare it as a local variable in the relevant methods.(•À×8¥û¶‡“2
+L	java:S106;"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8«û¶‡“2

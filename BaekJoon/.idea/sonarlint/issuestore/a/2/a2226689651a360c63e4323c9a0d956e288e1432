@@ -1,0 +1,21 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÇóëûÿÿÿÿ8Ö¡Û‹‰2
+i	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ã¶“‡8Ö¡Û‹‰2
+n
+java:S3008
+"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çœ›¼ùÿÿÿÿ8¢Û‹‰2
+h
+java:S3008"LRename this field "X" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èì¤E8¢Û‹‰2
+A
+java:S1659
+"Declare "d" on a separate line.(çœ›¼ùÿÿÿÿ8‚¢Û‹‰2
+r
+java:S1450
+"PRemove the "d" field and declare it as a local variable in the relevant methods.(çœ›¼ùÿÿÿÿ8‚¢Û‹‰2
+L	java:S106-"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8âá‹‰2
+X	java:S1258"<This block of commented-out lines of code should be removed.(˜„ïù8ˆ¢Û‹‰2
+X	java:S125:"<This block of commented-out lines of code should be removed.(ÖÍ³œ8ˆ¢Û‹‰2
+o	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾²çÿûÿÿÿÿ8ˆ¢Û‹‰2
+t
+java:S3776\"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¾²çÿûÿÿÿÿ8‰¢Û‹‰2
+X	java:S125B"<This block of commented-out lines of code should be removed.(á¸ÔØ8‰¢Û‹‰2
