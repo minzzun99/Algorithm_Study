@@ -3485,3 +3485,5 @@ O
 src/graph/Bj2589_보물섬.java,3\8\385b1f17842b80e48edfec0e6fff1992ca592195
 W
 'src/bruteforce/Bj17626_FourSquares.java,e\f\ef9967e83fd2c3e0aa2cd3d172f324e9b3f6a5d0
+Y
+)src/graph/Bj14938_서강그라운드.java,e\d\ed17ed685e5e9607ce05c1f72b738fa6ac988598
