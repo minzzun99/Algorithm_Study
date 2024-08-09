@@ -1,0 +1,31 @@
+
+n	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Êî«ßşÿÿÿÿ8Ü¹œ£“2
+[
+java:S1659">Declare "m" and all following declarations on a separate line.(†×ı8ç¹œ£“2
+x
+java:S1450"VRemove the "adjList" field and declare it as a local variable in the relevant methods.(ÑÔ¸íıÿÿÿÿ8è¹œ£“2
+v
+java:S1450"TRemove the "items" field and declare it as a local variable in the relevant methods.( ±êñşÿÿÿÿ8è¹œ£“2
+m
+java:S1450"PRemove the "k" field and declare it as a local variable in the relevant methods.(†×ı8è¹œ£“2
+m
+java:S1450"PRemove the "m" field and declare it as a local variable in the relevant methods.(†×ı8è¹œ£“2
+m
+java:S1450"PRemove the "n" field and declare it as a local variable in the relevant methods.(†×ı8è¹œ£“2
+X
+java:S18547"6Remove this useless assignment to local variable "pq".(ş½ğ˜ıÿÿÿÿ8óŠ £“2
+N
+java:S11726",Remove this unused method parameter "start".(Û¬ìãûÿÿÿÿ8óŠ £“2
+I
+java:S14817"'Remove this unused "pq" local variable.(ş½ğ˜ıÿÿÿÿ8õŠ £“2
+E
+java:S1068"(Remove this unused "dist" private field.(É¬ö¯8ğ¹œ£“2
+H
+java:S1068"+Remove this unused "visited" private field.(•À×8ğ¹œ£“2
+D
+java:S1068"'Remove this unused "INF" private field.(¿€ó8ğ¹œ£“2
+B
+java:S1068"%Remove this unused "m" private field.(†×ı8ğ¹œ£“2
+Q
+java:S11446"/Remove this unused private "countItems" method.(Û¬ìãûÿÿÿÿ8ğ¹œ£“2

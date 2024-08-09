@@ -1,0 +1,8 @@
+
+i	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÛﬂƒÂ8≠’·£ì2
+i
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áßπî8È’·£ì2
+`
+java:S1659"CDeclare "sharkX" and all following declarations on a separate line.(áßπî8Ô’·£ì2
+G	java:S106F"+Replace this use of System.out by a logger.(ÖÁ˝Õ8ë‡È£ì2

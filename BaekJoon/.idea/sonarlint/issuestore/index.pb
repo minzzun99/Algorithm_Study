@@ -3493,3 +3493,5 @@ Z
 *src/graph/Bj14938_서강그라운드2.java,a\e\ae5abe0ad132a7a4d27871f1413c2aa90dc3fd1d
 T
 $src/graph/Bj16236_아기상어2.java,b\d\bd20dd382661959b493c891eee1ed0b20e8fc8e0
+[
++src/graph/Bj1240_노드사이의거리.java,4\c\4cd9036d90e06f3a33569298d0b7542846ab3e62

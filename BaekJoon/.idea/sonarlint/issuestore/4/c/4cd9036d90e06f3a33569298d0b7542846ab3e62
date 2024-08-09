@@ -1,0 +1,13 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÿ¹¦Íúÿÿÿÿ8Å¤««“2
+n
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â³Ïöøÿÿÿÿ8ú¤««“2
+n
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â³Ïöøÿÿÿÿ8û¤««“2
+A
+java:S1659"Declare "M" on a separate line.(â³Ïöøÿÿÿÿ8ı¤««“2
+r
+java:S1450"PRemove the "M" field and declare it as a local variable in the relevant methods.(â³Ïöøÿÿÿÿ8ş¤««“2
+p
+java:S1450"SRemove the "dist" field and declare it as a local variable in the relevant methods.(É¬ö¯8ÿ¤««“2
+L	java:S1067"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8¥««“2
