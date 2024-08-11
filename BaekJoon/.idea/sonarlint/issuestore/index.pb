@@ -3499,3 +3499,5 @@ Q
 !src/sort/Bj2822_점수계산.java,a\1\a1ebffc2b9edf58179b3ec83322a5414008df2c6
 [
 +src/hash/Bj28446_볼링공찾아주기.java,b\6\b69c82dece8b0eb8ef5635dd7fd5822f42477ad2
+O
+src/math/Bj22986_FlatEarth.java,d\0\d01b4bae78ff1d8d9b796286ae6a472b893ba632
