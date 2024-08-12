@@ -3501,3 +3501,5 @@ Q
 +src/hash/Bj28446_볼링공찾아주기.java,b\6\b69c82dece8b0eb8ef5635dd7fd5822f42477ad2
 O
 src/math/Bj22986_FlatEarth.java,d\0\d01b4bae78ff1d8d9b796286ae6a472b893ba632
+I
+src/graph/Bj3184_양.java,f\a\fa143bb628f33c9b55bcfd72fd47f3f96deebd2f
