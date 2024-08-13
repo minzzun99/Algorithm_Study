@@ -3491,8 +3491,6 @@ S
 #src/graph/Bj16236_아기상어.java,1\5\1538cffc6f580f540a2f25fd1621af2e453dfb9e
 [
 +src/graph/Bj1240_노드사이의거리.java,4\c\4cd9036d90e06f3a33569298d0b7542846ab3e62
-^
-.src/sort/Bj1083_소트_다시풀어보기.java,1\b\1bc846bb70721ecdb420d012b6a986f5cc150f4b
 g
 7src/hash/Bj25757_임스와함께하는미니게임.java,1\8\18a86ccbec02cdef2374a8c853219dab03df7b22
 Q
@@ -3505,3 +3503,5 @@ I
 src/graph/Bj3184_양.java,f\a\fa143bb628f33c9b55bcfd72fd47f3f96deebd2f
 K
 src/sort/Bj1083_소트.java,6\3\63c3c380bfafd9a0c23a29791e1b908d786c1305
+[
++src/bruteforce/Bj30804_과일탕후루.java,5\2\52c4cfef5080b65e9dc4cb9dd81cc2c1cf9acb92
