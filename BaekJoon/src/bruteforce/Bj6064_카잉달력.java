@@ -19,7 +19,7 @@ public class Bj6064_카잉달력 {
             int rx = Integer.parseInt(st.nextToken()) - 1;
             int ry = Integer.parseInt(st.nextToken()) - 1;
 
-            int lcm = N * M / gcd(N, M);
+            int lcm = N * M / gcd(M, N);
 
             int year = rx;
             while (year <= lcm) {
