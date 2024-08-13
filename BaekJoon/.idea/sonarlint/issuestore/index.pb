@@ -3507,9 +3507,7 @@ K
 +src/bruteforce/Bj30804_과일탕후루.java,5\2\52c4cfef5080b65e9dc4cb9dd81cc2c1cf9acb92
 O
 src/graph/Bj1043_거짓말.java,a\0\a08e2fec30f7a5a677919add89b6b70d2c3ab32a
-\
-,src/graph/Bj1043_거짓말_틀린코드.java,1\9\19063eb946436288efbffd7b947f6ff5ed99d63d
-C
-src/graph/test.java,f\1\f11ac0248623405a0cae6a9461d5c80171f8473a
 Y
 )src/graph/Bj1043_거짓말_UnionFind.java,0\c\0c4a18743fd516d36f12d8809905029b8729ffbc
+W
+'src/bruteforce/Bj6064_카잉달력.java,c\0\c08f0d6e04a53c4cdb3960f2e4e18cfa9ff4a4c1
