@@ -3511,3 +3511,5 @@ Y
 )src/graph/Bj1043_거짓말_UnionFind.java,0\c\0c4a18743fd516d36f12d8809905029b8729ffbc
 W
 'src/bruteforce/Bj6064_카잉달력.java,c\0\c08f0d6e04a53c4cdb3960f2e4e18cfa9ff4a4c1
+L
+src/graph/Bj2636_치즈.java,6\b\6bf012a489fc8e8f8d64c7536a0e34def5b24b38
