@@ -3513,3 +3513,5 @@ W
 'src/bruteforce/Bj6064_카잉달력.java,c\0\c08f0d6e04a53c4cdb3960f2e4e18cfa9ff4a4c1
 L
 src/graph/Bj2636_치즈.java,6\b\6bf012a489fc8e8f8d64c7536a0e34def5b24b38
+P
+ src/math/Bj1964_오각형X3.java,9\6\96d42411d863dbc29baa63cc555b5d3b0c78b43f
