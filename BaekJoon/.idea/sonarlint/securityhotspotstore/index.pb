@@ -3515,3 +3515,5 @@ L
 src/graph/Bj2636_치즈.java,6\b\6bf012a489fc8e8f8d64c7536a0e34def5b24b38
 P
  src/math/Bj1964_오각형X3.java,9\6\96d42411d863dbc29baa63cc555b5d3b0c78b43f
+M
+src/string/Bj23627_driip.java,5\e\5e96d154af78a14968a9a6c1de86b94c49ce2154
