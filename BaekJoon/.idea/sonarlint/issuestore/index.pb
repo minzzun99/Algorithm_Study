@@ -3517,3 +3517,5 @@ P
  src/math/Bj1964_오각형X3.java,9\6\96d42411d863dbc29baa63cc555b5d3b0c78b43f
 M
 src/string/Bj23627_driip.java,5\e\5e96d154af78a14968a9a6c1de86b94c49ce2154
+R
+"src/graph/Bj2252_줄세우기.java,e\9\e9af64c4ee2f65150183e666082ab8aa3a176520
