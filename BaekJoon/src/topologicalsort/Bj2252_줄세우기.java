@@ -1,4 +1,4 @@
-package graph;
+package topologicalsort;
 
 import java.io.BufferedReader;
 import java.io.IOException;
