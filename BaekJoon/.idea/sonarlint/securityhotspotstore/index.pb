@@ -3527,3 +3527,5 @@ Y
 .src/sort/Bj22232_가희와파일탐색기.java,2\0\20f4cd49d9a666aa72091c5801735e13356f52ba
 i
 9src/topologicalsort/Bj14567_선수과목Prerequisite.java,f\e\fed9a4c034865a95fbfca69e644bcbbe4d0bed24
+S
+#src/string/Bj1235_학생번호.java,5\b\5b9eeaae37a53d301f9c76640dec59b3a916c117
