@@ -3539,3 +3539,5 @@ L
 src/dp/Bj9465_스티커.java,a\4\a44af7908b9f92d5fbf6070ae84675216d42923d
 [
 +src/implementation/Bj10995_별찍기20.java,5\4\5455f118571967793a0fe6b3c086077d24ec2b75
+U
+%src/bronze5/Bj24568_CupcakeParty.java,3\4\34843f384f0f18741e49b514efb9175ba4c11155
