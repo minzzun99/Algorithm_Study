@@ -3541,3 +3541,5 @@ L
 +src/implementation/Bj10995_별찍기20.java,5\4\5455f118571967793a0fe6b3c086077d24ec2b75
 U
 %src/bronze5/Bj24568_CupcakeParty.java,3\4\34843f384f0f18741e49b514efb9175ba4c11155
+b
+2src/map/Bj21939_문제추천시스템Version1.java,b\f\bffd4598a8227a3122e9083cf6b486d708d11e75
