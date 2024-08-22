@@ -3543,3 +3543,7 @@ U
 %src/bronze5/Bj24568_CupcakeParty.java,3\4\34843f384f0f18741e49b514efb9175ba4c11155
 b
 2src/map/Bj21939_문제추천시스템Version1.java,b\f\bffd4598a8227a3122e9083cf6b486d708d11e75
+l
+<src/datastructure/Bj21939_문제추천시스템Version1.java,f\d\fdcd3b889b2918156ebab74a0a8abf32234412c9
+Q
+!src/sort/Bj1015_수열정렬.java,2\0\201c9b9541bbd150c35cce8c6033b46a52fdf4d9
