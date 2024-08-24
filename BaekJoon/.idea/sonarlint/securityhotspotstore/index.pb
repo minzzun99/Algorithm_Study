@@ -3549,3 +3549,5 @@ d
 4src/graph/Bj4485_녹색옷입은애가젤다지.java,7\1\7111b10cf365b31780288fc9e245e090363713de
 O
 src/graph/Bj1446_지름길.java,8\7\87dc03af7a42a934c321436f1c2daa818d86c5d1
+[
++src/graph/Bj5972_택배배송_dijkstra.java,1\7\172decc435b3d416681f14d50cb3799e2038541d
