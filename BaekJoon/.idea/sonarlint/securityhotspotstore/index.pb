@@ -3571,3 +3571,5 @@ K
 src/math/Bj1312_소수.java,f\d\fd4aeeda5ff8fec26dd78a5d871abb95273ef25e
 e
 5src/math/Bj17362_수학은체육과목입니다2.java,b\8\b82ce07fe00557ef51cbb835ca40582584750d4f
+T
+$src/string/Bj15351_인생점수.java,a\0\a08cea5b6b3c5288561f2cfeb7adcf5f2aa851e2
