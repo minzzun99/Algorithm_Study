@@ -3569,3 +3569,5 @@ N
 src/math/Bj1094_막대기.java,5\b\5b7f7f2446dc5a3005b47309729b988c7612c03f
 K
 src/math/Bj1312_소수.java,f\d\fd4aeeda5ff8fec26dd78a5d871abb95273ef25e
+e
+5src/math/Bj17362_수학은체육과목입니다2.java,b\8\b82ce07fe00557ef51cbb835ca40582584750d4f
