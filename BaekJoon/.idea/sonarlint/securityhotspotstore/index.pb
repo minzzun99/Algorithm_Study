@@ -3565,3 +3565,7 @@ V
 &src/topologicalsort/Bj2056_작업.java,8\d\8d942a1edab34eb7fc942f2eb0c5b45de1152603
 M
 src/graph/Bj13565_침투.java,0\2\026c1b4445d108687034f9606233e48a332062d9
+N
+src/math/Bj1094_막대기.java,5\b\5b7f7f2446dc5a3005b47309729b988c7612c03f
+K
+src/math/Bj1312_소수.java,f\d\fd4aeeda5ff8fec26dd78a5d871abb95273ef25e
