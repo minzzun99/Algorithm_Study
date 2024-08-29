@@ -3575,3 +3575,5 @@ T
 $src/string/Bj15351_인생점수.java,a\0\a08cea5b6b3c5288561f2cfeb7adcf5f2aa851e2
 M
 src/greedy/Bj3213_피자.java,6\b\6b9589c8de9c41cad61fa223144b1271c45be849
+J
+src/dp/Bj2293_동전1.java,6\0\607e35b66fa8abcbc6061f49140685a38df6ba63
