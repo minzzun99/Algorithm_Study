@@ -3579,3 +3579,5 @@ J
 src/dp/Bj2293_동전1.java,6\0\607e35b66fa8abcbc6061f49140685a38df6ba63
 X
 (src/graph/Bj1325_효율적인해킹.java,3\e\3ea34416d8272055305a138f09ae799fb320a8af
+L
+src/dp/Bj1912_연속합.java,9\f\9fdb2ec77c09ddc67a4b36847f093b387f6e6e65
