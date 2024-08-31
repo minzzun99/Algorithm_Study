@@ -3583,3 +3583,5 @@ L
 src/dp/Bj1912_연속합.java,9\f\9fdb2ec77c09ddc67a4b36847f093b387f6e6e65
 S
 #src/dp/Bj10211_MaximumSubarray.java,4\a\4acc9d288d544c489a11fb2a6ad1349d6c17da0f
+T
+$src/greedy/Bj14916_거스름돈.java,5\6\56321d9a657654cda026b0df287449a3887db6e3
