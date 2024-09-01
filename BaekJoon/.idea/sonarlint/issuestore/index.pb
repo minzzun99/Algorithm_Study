@@ -3587,3 +3587,5 @@ T
 $src/greedy/Bj14916_거스름돈.java,5\6\56321d9a657654cda026b0df287449a3887db6e3
 T
 $src/dp/Bj10826_피보나치수4.java,5\9\5945c126802bd4a0ac5e0cd18839caa2a7557d46
+J
+src/dp/Bj14501_퇴사.java,3\7\37a09fc441703b16b81d6e4b158e21f321ab60c0
