@@ -1,0 +1,18 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(öôá8Ãà—˜2
+n
+java:S3008	"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â³Ïöøÿÿÿÿ8ìÃà—˜2
+n
+java:S3008	"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â³Ïöøÿÿÿÿ8ìÃà—˜2
+A
+java:S1659	"Declare "M" on a separate line.(â³Ïöøÿÿÿÿ8íÃà—˜2
+r
+java:S1450	"PRemove the "M" field and declare it as a local variable in the relevant methods.(â³Ïöøÿÿÿÿ8íÃà—˜2
+r
+java:S1450	"PRemove the "N" field and declare it as a local variable in the relevant methods.(â³Ïöøÿÿÿÿ8îÃà—˜2
+w
+java:S1450
+"URemove the "adjArr" field and declare it as a local variable in the relevant methods.(˜“•ıÿÿÿÿ8îÃà—˜2
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(œû¿Ø8Ø·ó—˜2
+L	java:S106/"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8Ğ©ô—˜2

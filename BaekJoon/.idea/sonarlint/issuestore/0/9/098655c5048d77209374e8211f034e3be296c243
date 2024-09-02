@@ -1,0 +1,16 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€˜îş8ú…Ñ„–2
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¡ìÍ8û…Ñ„–2
+i	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷Ã…Ë8û…Ñ„–2
+n
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â³Ïöøÿÿÿÿ8Š†Ñ„–2
+n
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â³Ïöøÿÿÿÿ8Š†Ñ„–2
+A
+java:S1659"Declare "M" on a separate line.(â³Ïöøÿÿÿÿ8Š†Ñ„–2
+r
+java:S1450"PRemove the "M" field and declare it as a local variable in the relevant methods.(â³Ïöøÿÿÿÿ8Š†Ñ„–2
+L	java:S106$"+Replace this use of System.out by a logger.(­ƒúøÿÿÿÿ8ÎèÕ„–2
+_
+java:S1612("=Replace this lambda with method reference 'Integer::compare'.(Ô¼×íüÿÿÿÿ8ı™å„–2

@@ -1,0 +1,15 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(úÁöŸûÿÿÿÿ8†åá¼˜2
+n
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â³Ïöøÿÿÿÿ8‰æá¼˜2
+n
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â³Ïöøÿÿÿÿ8‰æá¼˜2
+A
+java:S1659"Declare "M" on a separate line.(â³Ïöøÿÿÿÿ8‹æá¼˜2
+r
+java:S1450"PRemove the "M" field and declare it as a local variable in the relevant methods.(â³Ïöøÿÿÿÿ8‹æá¼˜2
+L	java:S106@"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ8’æá¼˜2
+o
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ªÀí€8é¹ò¼˜2
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8”æá¼˜2
