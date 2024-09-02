@@ -3689,3 +3689,5 @@ Q.idea/sonarlint/securityhotspotstore/6/3/63c3c380bfafd9a0c23a29791e1b908d786c13
 Q.idea/sonarlint/securityhotspotstore/d/8/d8e14d7b54cae63e8f7e63f3c575f9eee92dbe79,a\3\a370d71196a0fb710d0b366d72d5f64905e1ff0c
 �
 Q.idea/sonarlint/securityhotspotstore/f/d/fdcd3b889b2918156ebab74a0a8abf32234412c9,9\3\93f0c089b37d7247c397a6e6d75ec1dda5ae41e8
+S
+#src/greedy/Bj1946_신입사원.java,6\5\65e8c0e89d7509314bb211e77e9ab10add3f8314
