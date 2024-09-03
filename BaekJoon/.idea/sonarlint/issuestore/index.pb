@@ -3693,3 +3693,5 @@ S
 #src/greedy/Bj1946_신입사원.java,6\5\65e8c0e89d7509314bb211e77e9ab10add3f8314
 L
 src/graph/Bj1058_친구.java,f\c\fc085942ab468e5316e5d6dda9cdcdde0af6e35f
+L
+src/dp/Bj2193_이친수.java,6\6\6652ea2bb55cc3f2f61af510bc6b53e4a820f683
