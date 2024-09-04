@@ -3695,3 +3695,5 @@ L
 src/graph/Bj1058_친구.java,f\c\fc085942ab468e5316e5d6dda9cdcdde0af6e35f
 L
 src/dp/Bj2193_이친수.java,6\6\6652ea2bb55cc3f2f61af510bc6b53e4a820f683
+]
+-src/string/Bj31496_자작나무가없소.java,2\1\217cef8642478180684a63d537b422c481da55df
