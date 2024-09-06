@@ -3707,3 +3707,5 @@ L
 src/graph/Bj1303_전투.java,6\2\620a66cd71f60b6bb82662eae9e683b93bd79ff7
 R
 "src/graph/Bj1303_전쟁전투.java,d\3\d3491d2031ac170daeee620ba00a5caf4d92347b
+V
+&src/dp/Bj18353_병사배치하기.java,a\3\a389d2d45537c1c9325719beb311de209893bddc
