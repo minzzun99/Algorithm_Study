@@ -82,6 +82,7 @@ public class Bj1865_웜홀 {
         dist[start] = 0;
 
         boolean check = false;
+        // 벨만포드 알고리즘의 특징 : N - 1번 반복하여 음수의 가중치를 찾을 수 있음
         for (int i = 1; i < N; i++) {
             check = false;
             for (int j = 1; j <= N; j++) {
