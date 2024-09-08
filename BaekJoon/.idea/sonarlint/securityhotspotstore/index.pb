@@ -3713,3 +3713,5 @@ R
 "src/dp/Bj12852_1로만들기2.java,b\0\b00bd157a21e9df87dec81ec431386bf8b092b3f
 U
 %src/graph/Bj1967_트리의지름.java,d\3\d3e80bd2423944cbcd4e6317f35fcf05319ef849
+L
+src/graph/Bj1865_웜홀.java,d\d\ddda8262e69fbe1cc84f2f6c1d0e0745e4c8b871
