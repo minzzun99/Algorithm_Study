@@ -3709,7 +3709,7 @@ V
 &src/dp/Bj18353_병사배치하기.java,a\3\a389d2d45537c1c9325719beb311de209893bddc
 ^
 .src/priorityqueue/Bj11000_강의실배정.java,1\2\120ffd776e132942f80ded1820fc10cdc3315dfa
-U
-%src/graph/Bj12852_1로만들기2.java,c\a\caa4fc804b50514b3f58d6020d79d01573ef308a
 R
 "src/dp/Bj12852_1로만들기2.java,b\0\b00bd157a21e9df87dec81ec431386bf8b092b3f
+U
+%src/graph/Bj1967_트리의지름.java,d\3\d3e80bd2423944cbcd4e6317f35fcf05319ef849
