@@ -21,15 +21,19 @@ public class Bj1967_트리의지름 {
     private static int N;
     private static ArrayList<Node>[] adjList;
     private static boolean[] visited;
-    private static boolean[] leaf;
-    private static int max;
+//    private static boolean[] leaf;
+    private static int max, distantNode;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st;
         N = Integer.parseInt(br.readLine());
-        leaf = new boolean[N + 1];
-        Arrays.fill(leaf, true);
+//        leaf = new boolean[N + 1];
+//        Arrays.fill(leaf, true);
+        if (N == 1) {
+            System.out.println(0);  // 노드가 1개일 경우 지름은 0
+            return;
+        }
 
         adjList = new ArrayList[N + 1];
         for (int i = 1; i <= N; i++) {
@@ -45,28 +49,26 @@ public class Bj1967_트리의지름 {
 
             adjList[start].add(new Node(end, weight));
             adjList[end].add(new Node(start, weight));
-            leaf[start] = false;
         }
 
         visited = new boolean[N + 1];
-        for (int i = 1; i <= N; i++) {
-            if (!leaf[i]) {
-                continue;
-            }
-            Arrays.fill(visited, false);
-            dfs(i, 0);
-        }
+        dfs(1, 0);
+        Arrays.fill(visited, false);
+        max = 0;
+        dfs(distantNode, 0);
 
         System.out.println(max);
     }
 
     private static void dfs(int start, int sum) {
         visited[start] = true;
-        max = Math.max(max, sum);
+        if (max < sum) {
+            max = sum;
+            distantNode = start;
+        }
 
         for (Node next : adjList[start]) {
             if (!visited[next.dest]) {
-                visited[next.dest] = true;
                 dfs(next.dest, sum + next.weight);
             }
         }
