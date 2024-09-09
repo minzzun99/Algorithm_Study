@@ -3717,3 +3717,5 @@ L
 src/graph/Bj1865_웜홀.java,d\d\ddda8262e69fbe1cc84f2f6c1d0e0745e4c8b871
 U
 %src/graph/Bj1167_트리의지름.java,4\8\48b052ad266067355051cab5d0e6471080345b05
+L
+src/graph/Bj1068_트리.java,6\d\6d7781fd40788015e7b836d7b3e82c151ce238a2
