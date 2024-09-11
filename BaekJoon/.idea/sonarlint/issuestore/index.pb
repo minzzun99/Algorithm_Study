@@ -3725,3 +3725,5 @@ c
 3src/recursion/Bj17478_재귀함수가뭔가요.java,2\a\2aca68fc4eb925cefba0f1f1255fa2657de2ba1d
 Q
 !src/greedy/Bj20310_타노스.java,2\1\215f461d73b5fc960d3a6077d83f63de195767b6
+Q
+!src/math/Bj2783_삼각김밥.java,3\7\375d190217ae89e78f8db3afe60b704ebe0d2bdd
