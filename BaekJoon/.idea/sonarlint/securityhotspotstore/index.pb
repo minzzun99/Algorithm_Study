@@ -3723,3 +3723,5 @@ X
 (src/implementation/Bj1475_방번호.java,6\6\66b5974b5a2d42fd5396c7b091a222f8c6db157e
 c
 3src/recursion/Bj17478_재귀함수가뭔가요.java,2\a\2aca68fc4eb925cefba0f1f1255fa2657de2ba1d
+Q
+!src/greedy/Bj20310_타노스.java,2\1\215f461d73b5fc960d3a6077d83f63de195767b6
