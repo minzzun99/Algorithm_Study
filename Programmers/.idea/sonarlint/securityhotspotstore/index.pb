@@ -15,3 +15,5 @@ z
 Jsrc/sql/select/조건에 부합하는 중고거래 댓글 조회하기.sql,f\f\ff2d58fd2324ac7e6fce52ce0c86a9b8cf8c43a9
 _
 /src/sql/select/인기있는 아이스크림.sql,8\6\86e08f9f0ba4dbc900da797048fc33bf02a8430e
+g
+7src/sql/select/조건에 맞는 회원수 구하기.sql,4\0\40dbb2963e7fa533cd155114df58112b5ef4f7bc
