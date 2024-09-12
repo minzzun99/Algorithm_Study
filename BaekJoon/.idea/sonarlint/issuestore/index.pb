@@ -3727,3 +3727,7 @@ Q
 !src/greedy/Bj20310_타노스.java,2\1\215f461d73b5fc960d3a6077d83f63de195767b6
 Q
 !src/math/Bj2783_삼각김밥.java,3\7\375d190217ae89e78f8db3afe60b704ebe0d2bdd
+X
+(src/bruteforce/Bj15686_치킨배달.java,0\a\0afd32f2064cdba47ba1c6dd42210456620b2104
+Z
+*src/backtracking/Bj15686_치킨배달.java,0\e\0e89bb981a20d5c926145784f027426977f63c4c
