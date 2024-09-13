@@ -25,3 +25,7 @@ U
 %src/sql/select/아픈동물찾기.sql,d\b\db8a58ac3cf120fd35fdcebe93c63a54e1ff70de
 U
 %src/sql/select/어린동물찾기.sql,5\2\52795712a45388e1705d74e4f78c8b5f4a0a3ebd
+^
+.src/sql/select/동물의아이디와이름.sql,b\b\bb2346822a7ba19390a46f93e8dadd2bd11f027d
+a
+1src/sql/select/여러기준으로정렬하기.sql,d\9\d95c2c5c00b4a167fe5927e33ed7d127c8b124c4
