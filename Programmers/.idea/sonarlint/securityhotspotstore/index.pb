@@ -21,3 +21,5 @@ g
 .src/sql/select/모든레코드조회하기.sql,9\9\99182f4705750780bd2696f651f812ea5dc6c6ef
 U
 %src/sql/select/역순정렬하기.sql,0\d\0dc2728248c2aafdb51a2e4e9a0f450c1afc3bb9
+U
+%src/sql/select/아픈동물찾기.sql,d\b\db8a58ac3cf120fd35fdcebe93c63a54e1ff70de
