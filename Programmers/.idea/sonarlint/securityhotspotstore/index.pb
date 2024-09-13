@@ -17,3 +17,7 @@ _
 /src/sql/select/인기있는 아이스크림.sql,8\6\86e08f9f0ba4dbc900da797048fc33bf02a8430e
 g
 7src/sql/select/조건에 맞는 회원수 구하기.sql,4\0\40dbb2963e7fa533cd155114df58112b5ef4f7bc
+^
+.src/sql/select/모든레코드조회하기.sql,9\9\99182f4705750780bd2696f651f812ea5dc6c6ef
+U
+%src/sql/select/역순정렬하기.sql,0\d\0dc2728248c2aafdb51a2e4e9a0f450c1afc3bb9
