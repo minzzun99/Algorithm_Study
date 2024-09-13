@@ -23,3 +23,5 @@ U
 %src/sql/select/역순정렬하기.sql,0\d\0dc2728248c2aafdb51a2e4e9a0f450c1afc3bb9
 U
 %src/sql/select/아픈동물찾기.sql,d\b\db8a58ac3cf120fd35fdcebe93c63a54e1ff70de
+U
+%src/sql/select/어린동물찾기.sql,5\2\52795712a45388e1705d74e4f78c8b5f4a0a3ebd
