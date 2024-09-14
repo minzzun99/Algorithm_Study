@@ -39,3 +39,5 @@ o
 ?src/sql/select/12세이하인여자환자목록출력하기.sql,c\9\c9949b22c4868399307581679f56061dc836f0fa
 m
 =src/sql/select/조건에맞는도서리스트출력하기.sql,7\4\74bd47e782d0f557b76270b242f01fb16470490f
+X
+(src/sql/select/Python개발자찾기.sql,2\2\22e797a648f0c11e148119e932135ab30f77e626
