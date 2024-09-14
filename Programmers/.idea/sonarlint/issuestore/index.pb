@@ -33,3 +33,5 @@ a
 +src/sql/select/상위n개레코드/sql.java,e\8\e81d5b482e5522be877435e7dc47f859cf87effc
 V
 &src/sql/select/상위n개레코드.sql,d\5\d56707d9c8616ab51c04cfdef56126d5180bf9ae
+v
+Fsrc/sql/select/강원도에위치한생산공장목록출력하기.sql,9\6\9664ae1dc7a167873bb19c74c0de24e0733072b1
