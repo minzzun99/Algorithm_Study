@@ -35,3 +35,7 @@ V
 &src/sql/select/상위n개레코드.sql,d\5\d56707d9c8616ab51c04cfdef56126d5180bf9ae
 v
 Fsrc/sql/select/강원도에위치한생산공장목록출력하기.sql,9\6\9664ae1dc7a167873bb19c74c0de24e0733072b1
+o
+?src/sql/select/12세이하인여자환자목록출력하기.sql,c\9\c9949b22c4868399307581679f56061dc836f0fa
+m
+=src/sql/select/조건에맞는도서리스트출력하기.sql,7\4\74bd47e782d0f557b76270b242f01fb16470490f
