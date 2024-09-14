@@ -3735,3 +3735,5 @@ U
 %src/graph/Bj1707_이분그래프.java,e\a\ea514307d6395fffd5eab5aa71e29692cb72565c
 L
 src/graph/Bj2573_빙산.java,1\e\1e2ddad8c19a11d62bbaaac8ae8c72adeb1868ae
+U
+%src/stack/Bj1918_후위표기식.java,b\2\b29a57509e6b3e7e9ca12f803ff9828ae2e91fe0
