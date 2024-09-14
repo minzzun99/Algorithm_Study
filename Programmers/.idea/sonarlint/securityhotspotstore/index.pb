@@ -29,3 +29,7 @@ U
 .src/sql/select/동물의아이디와이름.sql,b\b\bb2346822a7ba19390a46f93e8dadd2bd11f027d
 a
 1src/sql/select/여러기준으로정렬하기.sql,d\9\d95c2c5c00b4a167fe5927e33ed7d127c8b124c4
+[
++src/sql/select/상위n개레코드/sql.java,e\8\e81d5b482e5522be877435e7dc47f859cf87effc
+V
+&src/sql/select/상위n개레코드.sql,d\5\d56707d9c8616ab51c04cfdef56126d5180bf9ae
