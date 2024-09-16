@@ -3745,3 +3745,5 @@ e
 5src/dp/Bj11055_가장큰증가하는부분수열.java,8\4\84f257cfb75c36ea240b2bb51aa3ab047cfc6c53
 U
 %src/graph/Bj2210_숫자판점프.java,d\7\d71697afbd3f3ef8ad3b21a30fe96904cf9b2f21
+S
+#src/bronze5/Bj15232_Rectangles.java,1\7\17223af5c90201d28fc123a92d62293e87ee5fb8
