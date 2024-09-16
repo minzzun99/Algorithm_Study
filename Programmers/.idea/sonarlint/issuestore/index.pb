@@ -41,3 +41,9 @@ X
 (src/sql/select/Python개발자찾기.sql,2\2\22e797a648f0c11e148119e932135ab30f77e626
 ^
 .src/sql/select/잔챙이잡은수구하기.sql,5\c\5cbe8e1d8d48a289da14a658d8b188856f13ce1d
+f
+6src/sql/select/가장큰물고기10마리구하기.sql,4\c\4c5ad2fc6a7757f74fa94862404d1906909f8ed9
+m
+=src/sql/select/특정형질을가지는대장균구하기.sql,5\7\57e715acdaf6d00e2540a69c7dc623d7c3f9d53d
+q
+Asrc/sql/select/3월에태어난여성회원목록출력하기.sql,6\8\687828830d7ad7515fa83d81a6a0f7b13371303b
