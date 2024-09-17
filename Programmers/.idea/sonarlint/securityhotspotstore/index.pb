@@ -49,3 +49,9 @@ q
 Asrc/sql/select/3월에태어난여성회원목록출력하기.sql,6\8\687828830d7ad7515fa83d81a6a0f7b13371303b
 y
 Isrc/sql/select/재구매가일어난상품과회원리스트구하기.sql,a\3\a3fb420eb0b15fc54ac4daeaa25208b651eac6d4
+g
+7src/sql/select/업그레이드된아이템구하기.sql,0\c\0c268b9071f4598b2da2b6a3eef040962b209abe
+]
+-src/sql/summaxmin/가장비싼상품구하기,c\0\c06c4d3750f314ae3ebe914611ed1fae38d36781
+a
+1src/sql/summaxmin/가장비싼상품구하기.sql,4\7\476039703cd3e6bbe164d3674a106926cf7d07fa
