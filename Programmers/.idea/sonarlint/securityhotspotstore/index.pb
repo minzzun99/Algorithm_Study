@@ -59,3 +59,5 @@ X
 (src/sql/summaxmin/최댓값구하기.sql,5\e\5ed99683ea8ccd5fe6e4b85ead1fa06a52cd84b5
 X
 (src/sql/summaxmin/최솟값구하기.sql,d\1\d1c0dff527b05cad61236b806bc08f66c04f342c
+X
+(src/sql/summaxmin/동물수구하기.sql,6\a\6ab9b88d695e27ddaa4bda043d61e8cc7049e16b
