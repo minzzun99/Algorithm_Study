@@ -55,3 +55,7 @@ g
 -src/sql/summaxmin/가장비싼상품구하기,c\0\c06c4d3750f314ae3ebe914611ed1fae38d36781
 a
 1src/sql/summaxmin/가장비싼상품구하기.sql,4\7\476039703cd3e6bbe164d3674a106926cf7d07fa
+X
+(src/sql/summaxmin/최댓값구하기.sql,5\e\5ed99683ea8ccd5fe6e4b85ead1fa06a52cd84b5
+X
+(src/sql/summaxmin/최솟값구하기.sql,d\1\d1c0dff527b05cad61236b806bc08f66c04f342c
