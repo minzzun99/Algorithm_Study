@@ -59,3 +59,5 @@ X
 (src/sql/summaxmin/동물수구하기.sql,6\a\6ab9b88d695e27ddaa4bda043d61e8cc7049e16b
 |
 Lsrc/sql/summaxmin/잡은물고기중가장큰물고기의길이구하기.sql,0\4\04cf494fafbbd12b66c3d17aba84373a5d461e1f
+v
+Fsrc/sql/summaxmin/가격이제일비싼식품의정보출력하기.sql,0\2\02e275046ca26b52ec85b4e36fadee4f424d255c
