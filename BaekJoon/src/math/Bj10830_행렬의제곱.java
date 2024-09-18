@@ -3,14 +3,12 @@ package math;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
-import java.util.Map;
 import java.util.StringTokenizer;
 
 public class Bj10830_행렬의제곱 {
     private static int N;
     private static long B;
-    private static int MOD = 1000;
+    private static final int MOD = 1000;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
