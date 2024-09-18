@@ -3751,3 +3751,5 @@ R
 "src/sort/Bj2075_N번째큰수.java,4\2\42ffacf6f28f1f10a5b9aa1934a663317803a4ab
 N
 src/sort/Bj8979_올림픽.java,5\b\5bf351e5aaa4e49aeb3b50f1da8551a393755d37
+U
+%src/math/Bj10830_행렬의제곱.java,4\5\45ec28e7ad8570823f0c18cff14c986f91bc7602
