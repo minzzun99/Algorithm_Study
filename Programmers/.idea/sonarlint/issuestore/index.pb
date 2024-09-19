@@ -61,3 +61,9 @@ X
 Lsrc/sql/summaxmin/잡은물고기중가장큰물고기의길이구하기.sql,0\4\04cf494fafbbd12b66c3d17aba84373a5d461e1f
 v
 Fsrc/sql/summaxmin/가격이제일비싼식품의정보출력하기.sql,0\2\02e275046ca26b52ec85b4e36fadee4f424d255c
+X
+(src/sql/summaxmin/중복제거하기.sql,9\1\9162aba6133099e4b5c23f9702491f90c1005373
+|
+Lsrc/sql/summaxmin/조건에맞는아이템들의가격의총합구하기.sql,d\4\d499d0c724b59382fe60f26a7580ea046fe894be
+p
+@src/sql/summaxmin/연도별대장균크기의편차구하기.sql,d\f\df95133b4f083b068ca580978f6c41800ebe531b
