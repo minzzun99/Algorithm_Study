@@ -3759,3 +3759,5 @@ U
 %src/math/Bj2749_피보나치수3.java,b\6\b6d6027f33e24cc978cc8adef397f3661686dde6
 R
 "src/dp/Bj4150_피보나치수.java,c\1\c160dab7098bdaf20ed08d6d08b874a01e54c0a9
+R
+"src/graph/Bj1326_폴짝폴짝.java,2\a\2a8bda40123701e86ee79510d4603c606a418d6b
