@@ -3765,3 +3765,5 @@ R
 ,src/graph/Bj31575_도시와비트코인.java,3\0\301129e89d2325df4f534bb666749e92aeeb36a6
 Y
 )src/bronze5/Bj29699_Welcome_to_SMUPC.java,6\5\65c6479fbc847ea587d99534d993215bb320bfac
+Q
+!src/sort/Bj1377_버블소트.java,b\c\bcb4a04b384f3af20975b06cbdb43e6e07f0293b
