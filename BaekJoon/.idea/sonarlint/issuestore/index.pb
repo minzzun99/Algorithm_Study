@@ -3773,3 +3773,5 @@ L
 src/graph/Bj3055_탈출.java,3\b\3b699db35ab0837fa09e08ffba3d946df4469a82
 e
 5src/dp/Bj11722_가장긴감소하는부분수열.java,e\5\e56989db57b6db3d62c570f55b6f9f0d0c192a78
+J
+src/greedy/Bj10610_30.java,9\4\94670a43442b30e0c1e04e2dc71f0cf4c2b9f3b6
