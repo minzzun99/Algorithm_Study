@@ -3771,3 +3771,5 @@ j
 :src/implementation/Bj2960_에라토스테네스의체.java,3\a\3ad5e924e7b2502affb39d21fb258eb6f58b4349
 L
 src/graph/Bj3055_탈출.java,3\b\3b699db35ab0837fa09e08ffba3d946df4469a82
+e
+5src/dp/Bj11722_가장긴감소하는부분수열.java,e\5\e56989db57b6db3d62c570f55b6f9f0d0c192a78
