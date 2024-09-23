@@ -72,8 +72,6 @@ d
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-r
-Bsrc/sql/isnull/경기도에위치한식품창고목록출력하기,c\8\c868b53f3af62f4e2e317dc7c1a0b76ab7d5ff89
 v
 Fsrc/sql/isnull/경기도에위치한식품창고목록출력하기.sql,6\b\6b5257622728c399676d348b309f9b1dc3fcd1f7
 d
@@ -82,3 +80,5 @@ d
 4src/sql/isnull/이름이있는동물의아이디.sql,e\1\e136c690aa626a9aa37d4cbe395a668b3d89701e
 j
 :src/sql/isnull/나이정보가없는회원수구하기.sql,a\0\a039399d309b66f2992416b9e03ed3b60667b65b
+j
+:src/sql/isnull/잡은물고기의평균길이구하기.sql,5\1\5139a3270896ca6c5b811fd64cb0304c95dbb3cc
