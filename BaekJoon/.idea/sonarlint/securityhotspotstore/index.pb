@@ -3775,3 +3775,5 @@ e
 5src/dp/Bj11722_가장긴감소하는부분수열.java,e\5\e56989db57b6db3d62c570f55b6f9f0d0c192a78
 J
 src/greedy/Bj10610_30.java,9\4\94670a43442b30e0c1e04e2dc71f0cf4c2b9f3b6
+V
+&src/implementation/Bj11916_볼질.java,c\8\c8669e4d33b09b410a08ca2ff889f7575104be5a
