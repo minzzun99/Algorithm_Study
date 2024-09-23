@@ -3777,3 +3777,5 @@ J
 src/greedy/Bj10610_30.java,9\4\94670a43442b30e0c1e04e2dc71f0cf4c2b9f3b6
 V
 &src/implementation/Bj11916_볼질.java,c\8\c8669e4d33b09b410a08ca2ff889f7575104be5a
+R
+"src/graph/Bj1261_알고스팟.java,6\c\6c11bfad3815cbcc478378e2aa3fcb36b72d173a
