@@ -3779,3 +3779,5 @@ V
 &src/implementation/Bj11916_볼질.java,c\8\c8669e4d33b09b410a08ca2ff889f7575104be5a
 R
 "src/graph/Bj1261_알고스팟.java,6\c\6c11bfad3815cbcc478378e2aa3fcb36b72d173a
+[
++src/math/Bj15996_팩토리얼나누기.java,1\0\10f627c47f84d7d6893c5cd7a386aebc6aaa84c5
