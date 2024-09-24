@@ -3781,3 +3781,5 @@ R
 "src/graph/Bj1261_알고스팟.java,6\c\6c11bfad3815cbcc478378e2aa3fcb36b72d173a
 [
 +src/math/Bj15996_팩토리얼나누기.java,1\0\10f627c47f84d7d6893c5cd7a386aebc6aaa84c5
+V
+&src/greedy/Bj1246_온라인판매.java,c\b\cb117058503c73085fd01fd384ed09796e6aceb0
