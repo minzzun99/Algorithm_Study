@@ -3788,3 +3788,5 @@ V
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 U
 %src/recursion/Bj2448_별찍기11.java,9\2\92ad01630ef5aaa9c33902b0374282405fad26a8
+U
+%src/math/Bj14489_치킨두마리.java,5\f\5f972c959ce0819f9ae0198a73c3c515217ac8e6
