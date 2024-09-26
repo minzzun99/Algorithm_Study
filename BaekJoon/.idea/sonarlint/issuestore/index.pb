@@ -3790,3 +3790,5 @@ U
 %src/recursion/Bj2448_별찍기11.java,9\2\92ad01630ef5aaa9c33902b0374282405fad26a8
 U
 %src/math/Bj14489_치킨두마리.java,5\f\5f972c959ce0819f9ae0198a73c3c515217ac8e6
+Z
+*src/bruteforce/Bj5671_호텔방번호.java,7\d\7d2bd15cca31369b87f9c6095ec27a678ff53b3e
