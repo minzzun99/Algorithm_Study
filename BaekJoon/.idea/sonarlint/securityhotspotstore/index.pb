@@ -3792,3 +3792,5 @@ U
 %src/math/Bj14489_치킨두마리.java,5\f\5f972c959ce0819f9ae0198a73c3c515217ac8e6
 Z
 *src/bruteforce/Bj5671_호텔방번호.java,7\d\7d2bd15cca31369b87f9c6095ec27a678ff53b3e
+S
+#src/graph/Bj2178_미로탐색2.java,c\0\c0f4d75761b9c80ef333fc6219bcd8ec4483f379
