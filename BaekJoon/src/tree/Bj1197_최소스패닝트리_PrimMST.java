@@ -47,7 +47,9 @@ public class Bj1197_최소스패닝트리_PrimMST {
     }
 
     private static int bfs(int start) {
-        PriorityQueue<Node> pq = new PriorityQueue<>((o1, o2) -> {return Integer.compare(o1.cost, o2.cost);});
+        PriorityQueue<Node> pq = new PriorityQueue<>((o1, o2) -> {
+            return Integer.compare(o1.cost, o2.cost);}
+        );
         pq.add(new Node(start, 0));
         int cost = 0;
 
