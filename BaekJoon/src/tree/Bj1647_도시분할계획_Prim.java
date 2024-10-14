@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
-public class Bj1647_도시분할계획 {
+public class Bj1647_도시분할계획_Prim {
     private static int N, M;
     private static List<Node>[] adjList;
     private static boolean[] visited;
