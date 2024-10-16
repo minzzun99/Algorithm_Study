@@ -84,7 +84,5 @@ j
 :src/sql/isnull/잡은물고기의평균길이구하기.sql,5\1\5139a3270896ca6c5b811fd64cb0304c95dbb3cc
 S
 #src/sql/isnull/NULL처리하기.sql,4\1\41301416410059721bda2650547f4f67056995d0
-U
-%src/sql/isnull/ROOT아이템구하기,f\e\fed2b42fe85d958ee186f3cabaa6166a8e11fe82
 Y
 )src/sql/isnull/ROOT아이템구하기.sql,3\0\302eb390ea0d5bf0d02c8dbd5323d7922fe5265e
