@@ -10,8 +10,8 @@ import java.util.StringTokenizer;
 
 public class Bj29097_Короли {
     private static class Army {
-        private String name;
-        private int power;
+        private final String name;
+        private final int power;
 
         private Army(String name, int x, int y) {
             this.name = name;
