@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04e72492-4e11-47aa-98d5-86984aeae6d9" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/BaekJoon/BaekJoon.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingTestSuccessful-JAVA/CodingTestSuccessful-JAVA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/Programmers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWExpertAcademy/SWExpertAcademy.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3ATLi2A4h3uqoMVtxNwZtwYBfvJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/minjun/IdeaProjects/Algorithm_Study",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="04e72492-4e11-47aa-98d5-86984aeae6d9" name="변경" comment="" />
+      <created>1772611737685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772611737685</updated>
+      <workItem from="1772611738971" duration="12000" />
+    </task>
+    <servers />
+  </component>
+</project>
