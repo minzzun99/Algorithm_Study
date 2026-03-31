@@ -11,9 +11,9 @@ public class Bj12933_오리 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         char[] input = br.readLine().toCharArray();
         List<Character> duck = List.of('q', 'u', 'a', 'c', 'k');
+
         boolean[] visited = new boolean[input.length];
         int count = 0;
-
         if (input.length % 5 != 0 || input[0] != 'q') {
             System.out.println(-1);
             return;
